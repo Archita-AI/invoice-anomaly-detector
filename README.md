@@ -73,3 +73,29 @@ Invoices are assigned a numerical risk score and categorized as:
 
 The risk score is intended to prioritize invoices for human review.
 It does not represent a probability of fraud.
+## Phase 3 — Interactive Dashboard
+
+Phase 3 converts the machine learning pipeline into an
+interactive dashboard using Streamlit and Plotly.
+
+### Dashboard Features
+
+- Total invoice statistics
+- Anomaly count
+- High-risk invoice count
+- Risk-level distribution
+- Invoice amount distribution
+- Anomalies by vendor
+- Suspicious invoice table
+- Vendor analysis
+- Invoice investigation
+- Risk explanations
+- Duplicate invoice indicators
+- Vendor and risk filters
+- CSV upload
+
+### Dashboard Technology
+
+- Streamlit
+- Plotly
+- Pandas

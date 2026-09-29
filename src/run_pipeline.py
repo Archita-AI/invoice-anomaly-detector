@@ -67,6 +67,9 @@ run_script(
 run_script(
     "src/explanation_engine.py"
 )
+run_script(
+    "src/finalize_results.py"
+)
 
 
 print("\n")
