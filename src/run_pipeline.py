@@ -1,35 +1,75 @@
 import subprocess
 
-print("\n==============================")
-print("INVOICE ANOMALY DETECTOR")
-print("FULL ML PIPELINE")
-print("==============================")
+print("\n")
+print("========================================")
+print(" SMALL-BUSINESS INVOICE ANOMALY DETECTOR")
+print(" PHASE 2 PIPELINE")
+print("========================================")
 
-print("\n1. Generating invoice data...")
-subprocess.run(
-    ["python", "src/generate_data.py"]
+def run_script(script):
+
+    print("\n")
+    print("----------------------------------------")
+    print(f"Running: {script}")
+    print("----------------------------------------")
+
+    result = subprocess.run(
+        ["python", script]
+    )
+
+    if result.returncode != 0:
+
+        print(
+            f"\nERROR: {script} failed."
+        )
+
+        exit(1)
+
+
+
+run_script(
+    "src/generate_data.py"
 )
 
-print("\n2. Creating advanced features...")
-subprocess.run(
-    ["python", "src/advanced_features.py"]
+run_script(
+    "src/advanced_features.py"
 )
 
-print("\n3. Running anomaly detection...")
-subprocess.run(
-    ["python", "src/anomaly_detector.py"]
+run_script(
+    "src/anomaly_detector.py"
 )
 
-print("\n4. Evaluating model...")
-subprocess.run(
-    ["python", "src/evaluate_model.py"]
+run_script(
+    "src/evaluate_model.py"
 )
 
-print("\n5. Comparing models...")
-subprocess.run(
-    ["python", "src/compare_models.py"]
+run_script(
+    "src/compare_models.py"
 )
 
-print("\n==============================")
-print("PIPELINE COMPLETED")
-print("==============================")
+
+run_script(
+    "src/duplicate_detector.py"
+)
+
+run_script(
+    "src/vendor_profile.py"
+)
+
+run_script(
+    "src/time_features.py"
+)
+
+run_script(
+    "src/risk_scoring.py"
+)
+
+run_script(
+    "src/explanation_engine.py"
+)
+
+
+print("\n")
+print("========================================")
+print(" PHASE 2 PIPELINE COMPLETED")
+print("========================================")

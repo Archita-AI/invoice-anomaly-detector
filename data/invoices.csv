@@ -1,1001 +1,1001 @@
-invoice_id,vendor,category,quantity,unit_price,amount,actual_anomaly
-INV0001,Tech World,Software,28,646.55,18103.3,0
-INV0002,Prime Stationery,Software,7,340.95,2386.64,0
-INV0003,Global Office,Software,11,4150.2,45652.21,0
-INV0004,Prime Stationery,Software,10,1206.81,12068.14,0
-INV0005,Prime Stationery,Furniture,9,2019.33,18173.97,0
-INV0006,XYZ Traders,Furniture,14,4872.6,68216.34,0
-INV0007,Global Office,Electronics,13,1816.83,23618.85,0
-INV0008,Global Office,Stationery,29,1623.15,47071.38,0
-INV0009,Global Office,Software,25,4607.4,115184.96,0
-INV0010,Prime Stationery,Electronics,25,731.59,18289.81,0
-INV0011,Tech World,Stationery,2,3846.0,7691.99,0
-INV0012,Global Office,Office Equipment,3,4942.71,14828.14,0
-INV0013,Prime Stationery,Furniture,7,4526.22,31683.55,0
-INV0014,XYZ Traders,Stationery,21,3328.01,69888.13,0
-INV0015,Tech World,Office Equipment,18,1707.49,30734.85,0
-INV0016,XYZ Traders,Stationery,3,1420.75,4262.24,0
-INV0017,Tech World,Furniture,10,4132.42,41324.25,0
-INV0018,Prime Stationery,Furniture,22,4423.15,97309.19,0
-INV0019,ABC Supplies,Electronics,29,2722.09,78940.54,0
-INV0020,Tech World,Software,7,11114.71,77802.99,1
-INV0021,XYZ Traders,Stationery,9,742.13,6679.15,0
-INV0022,Prime Stationery,Stationery,17,618.46,10513.84,0
-INV0023,Tech World,Office Equipment,11,3651.57,40167.29,0
-INV0024,ABC Supplies,Furniture,21,9330.92,195949.41,1
-INV0025,ABC Supplies,Stationery,24,4545.73,109097.46,0
-INV0026,Global Office,Furniture,28,3750.42,105011.82,0
-INV0027,Global Office,Stationery,14,1118.05,15652.7,0
-INV0028,XYZ Traders,Electronics,19,3146.13,59776.5,0
-INV0029,Tech World,Software,4,2290.43,9161.7,0
-INV0030,Tech World,Stationery,26,2970.8,77240.77,0
-INV0031,Global Office,Furniture,6,3742.73,22456.39,0
-INV0032,Tech World,Electronics,10,4069.74,40697.4,0
-INV0033,Tech World,Stationery,7,4249.94,29749.57,0
-INV0034,ABC Supplies,Office Equipment,13,1419.08,18448.03,0
-INV0035,Global Office,Software,14,349.35,4890.97,0
-INV0036,Prime Stationery,Stationery,4,3748.61,14994.46,0
-INV0037,Global Office,Electronics,8,710.45,5683.6,0
-INV0038,Prime Stationery,Office Equipment,5,1711.61,8558.07,0
-INV0039,ABC Supplies,Electronics,1,218.32,218.32,0
-INV0040,XYZ Traders,Electronics,4,3472.01,13888.05,0
-INV0041,Tech World,Office Equipment,15,3774.42,56616.32,1
-INV0042,ABC Supplies,Electronics,9,3345.36,30108.2,0
-INV0043,Tech World,Office Equipment,8,4960.36,39682.92,0
-INV0044,XYZ Traders,Stationery,1,548.82,548.82,0
-INV0045,XYZ Traders,Office Equipment,27,569.97,15389.31,0
-INV0046,ABC Supplies,Office Equipment,6,1833.82,11002.95,0
-INV0047,XYZ Traders,Software,9,4358.66,39227.9,0
-INV0048,Prime Stationery,Office Equipment,7,1234.54,8641.8,0
-INV0049,XYZ Traders,Office Equipment,4,1929.81,7719.25,0
-INV0050,Tech World,Stationery,13,528.83,6874.74,0
-INV0051,Tech World,Software,17,3863.15,65673.47,0
-INV0052,Tech World,Furniture,28,2159.87,60476.37,0
-INV0053,Tech World,Stationery,2,3844.39,7688.79,0
-INV0054,Prime Stationery,Stationery,28,4537.32,127044.89,0
-INV0055,Global Office,Furniture,5,1317.26,6586.32,0
-INV0056,ABC Supplies,Office Equipment,12,4075.5,48906.01,0
-INV0057,Tech World,Electronics,27,483.65,13058.57,0
-INV0058,XYZ Traders,Software,21,4514.47,94803.82,0
-INV0059,Tech World,Electronics,8,3323.69,26589.51,0
-INV0060,XYZ Traders,Furniture,6,4396.29,26377.73,0
-INV0061,XYZ Traders,Stationery,8,200.9,1607.23,0
-INV0062,Tech World,Stationery,18,1011.59,18208.6,0
-INV0063,Prime Stationery,Software,3,2070.85,6212.54,0
-INV0064,XYZ Traders,Stationery,22,2021.61,44475.51,0
-INV0065,XYZ Traders,Stationery,12,1288.31,15459.67,0
-INV0066,Tech World,Software,29,2031.74,58920.38,0
-INV0067,XYZ Traders,Software,26,818.47,21280.32,0
-INV0068,XYZ Traders,Furniture,3,2181.25,6543.76,0
-INV0069,Tech World,Stationery,22,4051.3,89128.62,0
-INV0070,Tech World,Stationery,6,2499.54,14997.22,0
-INV0071,ABC Supplies,Furniture,2,286.4,572.8,0
-INV0072,Prime Stationery,Office Equipment,23,2222.93,51127.42,0
-INV0073,Prime Stationery,Office Equipment,12,330.44,3965.28,0
-INV0074,XYZ Traders,Office Equipment,2,4837.97,9675.94,0
-INV0075,Prime Stationery,Furniture,6,811.78,4870.67,0
-INV0076,XYZ Traders,Stationery,17,3596.9,61147.37,0
-INV0077,ABC Supplies,Furniture,3,4869.33,14607.98,0
-INV0078,Tech World,Furniture,2,4164.99,8329.97,0
-INV0079,Tech World,Office Equipment,23,3556.71,81804.42,0
-INV0080,Tech World,Electronics,20,4229.41,84588.25,0
-INV0081,Prime Stationery,Stationery,8,4912.63,39301.07,0
-INV0082,ABC Supplies,Office Equipment,22,3182.45,70013.98,0
-INV0083,Prime Stationery,Electronics,12,2884.09,34609.04,0
-INV0084,Prime Stationery,Electronics,26,3215.54,83604.12,0
-INV0085,ABC Supplies,Software,4,2756.84,11027.38,0
-INV0086,ABC Supplies,Stationery,5,3248.43,16242.14,0
-INV0087,ABC Supplies,Electronics,13,2359.24,30670.15,0
-INV0088,ABC Supplies,Office Equipment,29,1248.53,36207.29,0
-INV0089,Tech World,Software,15,777.19,11657.8,0
-INV0090,Global Office,Stationery,25,528.04,13200.91,0
-INV0091,Global Office,Furniture,23,1463.92,33670.06,0
-INV0092,ABC Supplies,Office Equipment,16,421.39,6742.29,0
-INV0093,Global Office,Electronics,10,2922.42,29224.2,0
-INV0094,Global Office,Electronics,25,1562.38,39059.41,0
-INV0095,ABC Supplies,Office Equipment,23,4157.77,95628.64,0
-INV0096,Global Office,Electronics,16,556.36,8901.7,0
-INV0097,Prime Stationery,Software,12,1286.49,15437.85,0
-INV0098,XYZ Traders,Stationery,17,3705.18,62988.09,0
-INV0099,XYZ Traders,Software,16,3074.28,49188.48,0
-INV0100,ABC Supplies,Electronics,12,509.56,6114.7,0
-INV0101,Tech World,Furniture,8,4410.75,35286.0,0
-INV0102,ABC Supplies,Stationery,20,4410.86,88217.13,0
-INV0103,Tech World,Stationery,3,1785.96,5357.88,0
-INV0104,XYZ Traders,Office Equipment,16,1833.95,29343.17,0
-INV0105,ABC Supplies,Office Equipment,13,4947.34,64315.37,0
-INV0106,Prime Stationery,Furniture,23,3205.65,73729.85,0
-INV0107,Global Office,Stationery,28,2750.32,77008.94,0
-INV0108,Tech World,Furniture,19,4223.13,80239.48,0
-INV0109,Global Office,Office Equipment,8,1569.39,12555.15,0
-INV0110,Global Office,Office Equipment,22,2260.08,49721.68,0
-INV0111,ABC Supplies,Stationery,5,1485.33,7426.64,0
-INV0112,Global Office,Software,20,3987.97,79759.44,0
-INV0113,Prime Stationery,Electronics,8,2952.08,23616.61,0
-INV0114,Global Office,Office Equipment,24,3362.36,80696.65,0
-INV0115,ABC Supplies,Office Equipment,12,1411.07,16932.9,0
-INV0116,Prime Stationery,Software,1,1257.08,1257.08,0
-INV0117,XYZ Traders,Software,25,2544.2,63604.96,0
-INV0118,Global Office,Furniture,21,3740.32,78546.63,0
-INV0119,ABC Supplies,Furniture,20,2721.15,54423.02,0
-INV0120,XYZ Traders,Electronics,6,356.7,2140.2,0
-INV0121,XYZ Traders,Electronics,22,4369.05,96119.04,0
-INV0122,Tech World,Stationery,18,510.5,9188.95,0
-INV0123,Prime Stationery,Furniture,8,4787.96,38303.66,0
-INV0124,Global Office,Office Equipment,7,320.68,2244.77,0
-INV0125,ABC Supplies,Furniture,1,3533.36,3533.36,0
-INV0126,Tech World,Office Equipment,21,594.59,12486.47,0
-INV0127,Prime Stationery,Software,16,4571.25,73139.96,0
-INV0128,Tech World,Furniture,12,2429.28,29151.35,0
-INV0129,Prime Stationery,Software,6,860.11,5160.68,0
-INV0130,Prime Stationery,Electronics,20,1835.92,36718.31,0
-INV0131,Global Office,Electronics,2,991.16,1982.32,0
-INV0132,Prime Stationery,Stationery,29,1018.79,29545.0,0
-INV0133,Tech World,Furniture,14,4750.92,66512.88,0
-INV0134,Prime Stationery,Software,4,2337.18,9348.73,0
-INV0135,Global Office,Office Equipment,1,3986.25,3986.25,0
-INV0136,Global Office,Electronics,23,3270.11,75212.45,0
-INV0137,Tech World,Electronics,18,3446.85,62043.24,0
-INV0138,XYZ Traders,Office Equipment,13,832.13,10817.67,0
-INV0139,XYZ Traders,Software,2,1324.09,2648.17,0
-INV0140,Prime Stationery,Software,9,3976.4,35787.61,0
-INV0141,ABC Supplies,Furniture,21,4859.68,102053.23,0
-INV0142,Prime Stationery,Furniture,2,1460.84,2921.69,0
-INV0143,Tech World,Stationery,27,1503.53,40595.31,0
-INV0144,Tech World,Electronics,25,2469.91,61747.66,0
-INV0145,Tech World,Furniture,9,4922.43,44301.9,0
-INV0146,Tech World,Software,1,1491.0,1491.0,0
-INV0147,Tech World,Office Equipment,11,2153.47,23688.12,0
-INV0148,Global Office,Software,3,4479.1,13437.31,0
-INV0149,XYZ Traders,Electronics,20,214.02,4280.42,0
-INV0150,Tech World,Software,23,390.88,8990.16,0
-INV0151,ABC Supplies,Stationery,26,3099.54,80588.15,0
-INV0152,ABC Supplies,Electronics,4,4555.42,18221.7,0
-INV0153,ABC Supplies,Office Equipment,18,1346.51,24237.22,0
-INV0154,ABC Supplies,Stationery,23,2454.28,56448.45,0
-INV0155,Global Office,Electronics,6,2362.23,14173.4,0
-INV0156,ABC Supplies,Office Equipment,3,2470.26,7410.79,0
-INV0157,Tech World,Stationery,22,3188.09,70138.08,0
-INV0158,Prime Stationery,Stationery,11,2454.77,27002.47,0
-INV0159,ABC Supplies,Electronics,15,2347.85,35217.71,0
-INV0160,Global Office,Furniture,22,2476.58,54484.86,0
-INV0161,Global Office,Stationery,28,3036.16,85012.58,0
-INV0162,ABC Supplies,Stationery,5,2777.64,13888.18,0
-INV0163,Prime Stationery,Office Equipment,20,4299.85,85997.06,0
-INV0164,ABC Supplies,Software,10,437.58,4375.85,0
-INV0165,Global Office,Electronics,12,4199.92,50399.06,0
-INV0166,XYZ Traders,Electronics,15,4250.84,63762.57,0
-INV0167,Tech World,Furniture,17,1567.56,26648.49,0
-INV0168,Global Office,Furniture,10,2421.69,24216.89,0
-INV0169,ABC Supplies,Electronics,6,2304.98,13829.91,0
-INV0170,Tech World,Furniture,18,1248.85,22479.25,0
-INV0171,ABC Supplies,Office Equipment,13,2104.62,27360.12,0
-INV0172,ABC Supplies,Electronics,3,413.06,1239.18,0
-INV0173,XYZ Traders,Furniture,24,1533.55,36805.1,0
-INV0174,Tech World,Electronics,10,4120.07,41200.74,0
-INV0175,Tech World,Software,14,1565.9,21922.59,0
-INV0176,XYZ Traders,Stationery,6,4127.39,24764.35,0
-INV0177,Global Office,Electronics,3,2751.68,8255.03,0
-INV0178,ABC Supplies,Stationery,16,4423.34,70773.45,0
-INV0179,Prime Stationery,Furniture,7,2958.94,20712.59,0
-INV0180,ABC Supplies,Stationery,20,342.41,6848.15,0
-INV0181,ABC Supplies,Electronics,14,3442.02,48188.24,0
-INV0182,Global Office,Software,9,415.3,3737.67,0
-INV0183,ABC Supplies,Furniture,15,2362.87,35442.99,0
-INV0184,XYZ Traders,Electronics,21,4661.25,97886.21,0
-INV0185,XYZ Traders,Furniture,3,992.98,2978.94,0
-INV0186,Tech World,Office Equipment,2,2071.39,4142.77,0
-INV0187,Prime Stationery,Stationery,27,3703.33,99989.9,0
-INV0188,ABC Supplies,Office Equipment,2,4434.84,8869.68,0
-INV0189,ABC Supplies,Electronics,3,3420.53,10261.58,0
-INV0190,Global Office,Software,18,1439.23,25906.17,0
-INV0191,XYZ Traders,Furniture,14,3438.12,48133.65,0
-INV0192,Prime Stationery,Stationery,20,1624.29,32485.85,0
-INV0193,Tech World,Furniture,18,3648.46,65672.29,0
-INV0194,XYZ Traders,Electronics,10,4779.36,47793.59,0
-INV0195,Tech World,Furniture,25,3662.69,91567.21,0
-INV0196,Global Office,Stationery,2,4341.83,8683.65,0
-INV0197,Global Office,Electronics,25,210.1,5252.46,0
-INV0198,ABC Supplies,Furniture,29,3644.35,105686.04,0
-INV0199,Prime Stationery,Software,22,4182.02,92004.45,0
-INV0200,Tech World,Electronics,1,394.68,394.68,0
-INV0201,XYZ Traders,Electronics,4,4383.67,17534.68,0
-INV0202,Global Office,Software,14,1432.13,20049.85,0
-INV0203,ABC Supplies,Office Equipment,1,3393.4,3393.4,0
-INV0204,ABC Supplies,Stationery,14,4041.7,56583.85,0
-INV0205,Tech World,Office Equipment,16,3380.79,54092.63,0
-INV0206,Global Office,Furniture,22,642.97,14145.27,0
-INV0207,Prime Stationery,Software,14,3062.34,42872.81,0
-INV0208,Global Office,Office Equipment,29,2838.0,82302.05,0
-INV0209,Tech World,Electronics,20,4521.54,90430.84,0
-INV0210,Tech World,Furniture,3,2140.35,6421.05,0
-INV0211,Global Office,Furniture,3,1741.19,5223.57,0
-INV0212,Tech World,Office Equipment,9,3799.28,34193.55,0
-INV0213,Global Office,Office Equipment,6,2180.84,13085.05,0
-INV0214,XYZ Traders,Software,25,3301.26,82531.54,0
-INV0215,Global Office,Stationery,13,3302.96,42938.49,0
-INV0216,Global Office,Office Equipment,21,4462.59,93714.34,0
-INV0217,Tech World,Office Equipment,2,3073.72,6147.45,0
-INV0218,Tech World,Electronics,8,2610.34,20882.7,0
-INV0219,ABC Supplies,Furniture,21,866.58,18198.23,0
-INV0220,ABC Supplies,Stationery,2,755.54,1511.08,0
-INV0221,XYZ Traders,Electronics,4,940.74,3762.97,0
-INV0222,ABC Supplies,Software,25,1024.87,25621.82,0
-INV0223,Global Office,Software,15,3261.81,48927.15,0
-INV0224,Tech World,Office Equipment,4,3756.71,15026.84,0
-INV0225,ABC Supplies,Office Equipment,13,2743.96,35671.47,0
-INV0226,ABC Supplies,Software,28,4179.29,117019.98,0
-INV0227,XYZ Traders,Office Equipment,12,4958.06,59496.76,0
-INV0228,XYZ Traders,Stationery,28,4136.06,115809.7,0
-INV0229,Global Office,Office Equipment,13,3535.44,45960.66,0
-INV0230,Tech World,Furniture,14,2755.96,38583.51,0
-INV0231,XYZ Traders,Office Equipment,20,2354.49,47089.89,0
-INV0232,ABC Supplies,Electronics,18,605.08,10891.5,0
-INV0233,Tech World,Stationery,29,2116.97,61392.13,0
-INV0234,Tech World,Electronics,28,4568.65,127922.1,0
-INV0235,ABC Supplies,Electronics,6,4078.51,24471.05,0
-INV0236,XYZ Traders,Furniture,29,1237.05,35874.35,0
-INV0237,ABC Supplies,Stationery,11,2439.72,26836.89,0
-INV0238,Tech World,Stationery,2,4120.27,8240.54,0
-INV0239,Prime Stationery,Stationery,28,523.45,14656.48,0
-INV0240,Prime Stationery,Stationery,23,2059.48,47368.14,0
-INV0241,Global Office,Stationery,19,4288.84,81487.92,0
-INV0242,ABC Supplies,Furniture,19,2138.71,40635.49,0
-INV0243,ABC Supplies,Office Equipment,5,572.55,2862.75,0
-INV0244,Global Office,Electronics,19,2804.16,53279.13,0
-INV0245,Global Office,Stationery,2,4336.36,8672.73,0
-INV0246,Global Office,Office Equipment,10,3033.37,30333.71,0
-INV0247,Tech World,Office Equipment,25,1286.14,32153.49,0
-INV0248,ABC Supplies,Electronics,14,2044.35,28620.9,1
-INV0249,Tech World,Furniture,11,2360.59,25966.51,0
-INV0250,Global Office,Software,18,2980.48,53648.61,0
-INV0251,ABC Supplies,Software,29,3844.88,111501.66,0
-INV0252,Tech World,Office Equipment,24,674.59,16190.24,0
-INV0253,Tech World,Electronics,15,4470.33,67054.95,0
-INV0254,Global Office,Software,9,259.09,2331.78,0
-INV0255,ABC Supplies,Office Equipment,23,1976.25,45453.78,0
-INV0256,Global Office,Furniture,19,331.62,6300.73,0
-INV0257,ABC Supplies,Software,9,2086.28,18776.49,0
-INV0258,Prime Stationery,Office Equipment,3,2723.9,8171.7,0
-INV0259,XYZ Traders,Office Equipment,21,17421.2,365845.11,1
-INV0260,XYZ Traders,Stationery,9,995.02,8955.14,0
-INV0261,XYZ Traders,Furniture,28,3299.55,92387.52,0
-INV0262,Global Office,Stationery,14,414.94,5809.11,0
-INV0263,Prime Stationery,Electronics,19,3857.15,73285.9,0
-INV0264,ABC Supplies,Stationery,7,4743.89,33207.25,0
-INV0265,Tech World,Stationery,16,1830.89,29294.25,0
-INV0266,ABC Supplies,Software,16,2682.75,42923.98,0
-INV0267,Tech World,Office Equipment,28,2018.77,56525.54,0
-INV0268,ABC Supplies,Furniture,1,232.21,232.21,0
-INV0269,Prime Stationery,Stationery,4,2052.2,8208.79,0
-INV0270,Tech World,Furniture,4,4000.26,16001.03,0
-INV0271,Global Office,Stationery,7,3060.75,21425.23,0
-INV0272,ABC Supplies,Electronics,8,686.05,5488.38,0
-INV0273,ABC Supplies,Stationery,17,4266.27,72526.58,0
-INV0274,Tech World,Software,5,2749.21,13746.05,0
-INV0275,Global Office,Office Equipment,7,4240.27,29681.9,0
-INV0276,Global Office,Electronics,28,2985.06,83581.77,0
-INV0277,Prime Stationery,Stationery,20,2886.5,57730.09,0
-INV0278,Global Office,Furniture,29,705.24,20452.08,0
-INV0279,Global Office,Electronics,20,1003.33,20066.53,0
-INV0280,Global Office,Electronics,4,4865.72,19462.88,0
-INV0281,XYZ Traders,Stationery,28,1296.74,36308.62,0
-INV0282,Prime Stationery,Electronics,6,4891.77,29350.62,0
-INV0283,ABC Supplies,Furniture,7,2753.18,19272.27,0
-INV0284,Tech World,Electronics,18,851.79,15332.17,0
-INV0285,ABC Supplies,Furniture,5,676.65,3383.25,0
-INV0286,Prime Stationery,Stationery,20,1202.55,24050.95,0
-INV0287,Tech World,Office Equipment,29,4643.06,134648.72,0
-INV0288,Prime Stationery,Electronics,3,2187.92,6563.76,0
-INV0289,Global Office,Office Equipment,7,2098.08,14686.59,0
-INV0290,Tech World,Furniture,27,1703.39,45991.53,0
-INV0291,Global Office,Electronics,28,905.9,25365.11,0
-INV0292,ABC Supplies,Software,22,2541.69,55917.09,0
-INV0293,ABC Supplies,Office Equipment,14,824.23,11539.21,0
-INV0294,Tech World,Electronics,42,17348.03,728617.31,1
-INV0295,Tech World,Office Equipment,5,1977.91,9889.53,0
-INV0296,Prime Stationery,Electronics,29,1999.06,57972.66,0
-INV0297,Prime Stationery,Stationery,22,2475.23,54455.08,0
-INV0298,Global Office,Office Equipment,5,2331.81,11659.07,0
-INV0299,Tech World,Software,23,4975.32,114432.32,0
-INV0300,ABC Supplies,Software,2,2817.83,5635.66,0
-INV0301,Prime Stationery,Furniture,27,623.37,16830.94,0
-INV0302,Prime Stationery,Electronics,21,3113.01,65373.24,0
-INV0303,ABC Supplies,Office Equipment,22,927.6,20407.3,0
-INV0304,Prime Stationery,Furniture,6,348.5,2091.0,0
-INV0305,Global Office,Office Equipment,15,4859.56,72893.44,0
-INV0306,Tech World,Electronics,21,3912.99,82172.72,0
-INV0307,ABC Supplies,Software,10,4904.52,49045.23,0
-INV0308,Tech World,Stationery,23,2493.82,57357.78,0
-INV0309,Prime Stationery,Software,26,2754.84,71625.74,0
-INV0310,Prime Stationery,Furniture,24,1008.02,24192.42,0
-INV0311,ABC Supplies,Stationery,7,1385.16,9696.09,0
-INV0312,Global Office,Furniture,5,4225.04,21125.18,0
-INV0313,XYZ Traders,Electronics,1,1909.69,1909.69,0
-INV0314,ABC Supplies,Stationery,13,4168.71,54193.25,0
-INV0315,XYZ Traders,Furniture,21,3603.27,75668.58,0
-INV0316,XYZ Traders,Electronics,26,1050.42,27310.93,0
-INV0317,Global Office,Software,18,2635.74,47443.37,0
-INV0318,XYZ Traders,Electronics,13,3451.46,44868.97,0
-INV0319,XYZ Traders,Office Equipment,21,1328.18,27891.75,0
-INV0320,Global Office,Electronics,21,4187.3,87933.4,0
-INV0321,XYZ Traders,Electronics,162,2815.17,456057.99,1
-INV0322,XYZ Traders,Office Equipment,5,993.16,4965.81,0
-INV0323,XYZ Traders,Furniture,13,2998.33,38978.23,0
-INV0324,ABC Supplies,Furniture,4,4998.63,19994.51,0
-INV0325,ABC Supplies,Electronics,17,922.5,15682.55,0
-INV0326,ABC Supplies,Office Equipment,3,4120.43,12361.3,0
-INV0327,Global Office,Office Equipment,17,1195.08,20316.41,0
-INV0328,Prime Stationery,Software,28,3955.46,110752.99,0
-INV0329,XYZ Traders,Furniture,77,3725.97,286900.0,1
-INV0330,XYZ Traders,Stationery,21,1642.35,34489.33,0
-INV0331,Global Office,Furniture,20,1763.95,35279.02,0
-INV0332,XYZ Traders,Furniture,23,4004.1,92094.36,0
-INV0333,ABC Supplies,Software,21,2414.94,50713.71,0
-INV0334,Prime Stationery,Stationery,26,3707.93,96406.09,0
-INV0335,Tech World,Software,4,910.32,3641.3,0
-INV0336,XYZ Traders,Stationery,2,4292.28,8584.55,0
-INV0337,ABC Supplies,Electronics,20,3612.25,72244.93,0
-INV0338,Tech World,Stationery,16,4553.33,72853.21,0
-INV0339,Prime Stationery,Software,28,835.39,23390.85,0
-INV0340,Tech World,Furniture,18,3046.47,54836.45,0
-INV0341,ABC Supplies,Stationery,8,3075.78,24606.23,0
-INV0342,Tech World,Stationery,3,1896.61,5689.83,0
-INV0343,Global Office,Office Equipment,9,2400.64,21605.75,0
-INV0344,Tech World,Furniture,29,382.31,11087.03,0
-INV0345,XYZ Traders,Electronics,20,3780.13,75602.56,0
-INV0346,XYZ Traders,Software,29,2836.75,82265.69,0
-INV0347,Global Office,Electronics,6,3178.13,19068.77,1
-INV0348,ABC Supplies,Furniture,10,3467.63,34676.28,0
-INV0349,XYZ Traders,Stationery,21,2440.55,51251.63,0
-INV0350,Prime Stationery,Stationery,10,365.41,3654.14,0
-INV0351,XYZ Traders,Furniture,13,4854.12,63103.52,0
-INV0352,XYZ Traders,Stationery,17,4755.74,80847.55,0
-INV0353,ABC Supplies,Stationery,9,2661.93,23957.38,0
-INV0354,Tech World,Stationery,17,649.63,11043.67,0
-INV0355,XYZ Traders,Software,24,3822.18,91732.36,0
-INV0356,Global Office,Software,9,2561.27,23051.42,0
-INV0357,Tech World,Office Equipment,9,1651.75,14865.73,0
-INV0358,Prime Stationery,Electronics,1,2558.81,2558.81,0
-INV0359,ABC Supplies,Furniture,2,2707.73,5415.46,0
-INV0360,Prime Stationery,Furniture,28,2901.02,81228.45,0
-INV0361,Tech World,Furniture,16,2317.87,37085.98,0
-INV0362,Tech World,Office Equipment,29,3107.63,90121.14,0
-INV0363,Tech World,Software,1,4609.93,4609.93,0
-INV0364,Prime Stationery,Office Equipment,10,1938.89,19388.87,0
-INV0365,Tech World,Furniture,18,3683.44,66301.9,0
-INV0366,Prime Stationery,Electronics,26,4493.37,116827.68,0
-INV0367,Tech World,Stationery,28,2388.7,66883.61,0
-INV0368,Global Office,Software,8,2328.59,18628.7,0
-INV0369,Tech World,Software,21,3090.16,64893.39,0
-INV0370,Prime Stationery,Office Equipment,28,3038.75,85085.07,0
-INV0371,XYZ Traders,Software,11,4071.63,44787.92,0
-INV0372,Tech World,Furniture,23,2487.12,57203.77,0
-INV0373,XYZ Traders,Furniture,2,4981.39,9962.78,0
-INV0374,Global Office,Office Equipment,8,485.46,3883.71,0
-INV0375,ABC Supplies,Furniture,27,215.21,5810.55,0
-INV0376,Global Office,Electronics,22,3272.95,72004.94,0
-INV0377,Tech World,Office Equipment,8,1632.49,13059.9,0
-INV0378,XYZ Traders,Electronics,17,1353.84,23015.2,0
-INV0379,XYZ Traders,Stationery,15,1697.12,25456.73,0
-INV0380,Prime Stationery,Electronics,17,1429.03,24293.48,0
-INV0381,XYZ Traders,Stationery,28,347.79,9738.18,0
-INV0382,Prime Stationery,Stationery,23,4863.36,111857.25,0
-INV0383,ABC Supplies,Electronics,24,1259.58,30229.88,0
-INV0384,Tech World,Office Equipment,13,3723.34,48403.46,0
-INV0385,Prime Stationery,Furniture,19,3860.46,73348.79,0
-INV0386,ABC Supplies,Furniture,5,4660.44,23302.18,0
-INV0387,XYZ Traders,Stationery,12,346.64,4159.65,0
-INV0388,XYZ Traders,Stationery,1,4385.83,4385.83,0
-INV0389,ABC Supplies,Office Equipment,23,2730.69,62805.77,0
-INV0390,XYZ Traders,Software,5,3236.21,16181.06,0
-INV0391,ABC Supplies,Electronics,8,3293.46,26347.66,0
-INV0392,Prime Stationery,Stationery,13,4135.03,53755.38,0
-INV0393,Prime Stationery,Furniture,56,1800.36,100819.89,1
-INV0394,ABC Supplies,Office Equipment,25,3718.65,92966.14,0
-INV0395,Prime Stationery,Electronics,23,2737.17,62955.02,0
-INV0396,Prime Stationery,Office Equipment,11,4008.29,44091.2,0
-INV0397,Prime Stationery,Electronics,1,4954.62,4954.62,0
-INV0398,Global Office,Electronics,13,1163.12,15120.62,0
-INV0399,Tech World,Stationery,19,4974.31,94511.96,0
-INV0400,XYZ Traders,Office Equipment,24,631.1,15146.36,0
-INV0401,Global Office,Office Equipment,3,211.12,633.37,0
-INV0402,Prime Stationery,Furniture,24,411.98,9887.46,0
-INV0403,ABC Supplies,Furniture,17,1840.56,31289.44,0
-INV0404,Prime Stationery,Stationery,5,3237.95,16189.75,0
-INV0405,Tech World,Stationery,20,531.34,10626.84,0
-INV0406,Prime Stationery,Software,21,227.2,4771.11,0
-INV0407,ABC Supplies,Furniture,8,4698.04,37584.3,0
-INV0408,Tech World,Electronics,26,4145.25,107776.44,0
-INV0409,Prime Stationery,Office Equipment,14,4084.08,57177.11,0
-INV0410,Tech World,Stationery,20,24452.94,489058.88,1
-INV0411,XYZ Traders,Office Equipment,11,3560.16,39161.81,0
-INV0412,XYZ Traders,Office Equipment,20,701.14,14022.8,0
-INV0413,Prime Stationery,Software,15,2115.68,31735.21,0
-INV0414,Tech World,Furniture,19,3671.12,69751.23,0
-INV0415,ABC Supplies,Stationery,7,1545.61,10819.24,0
-INV0416,Prime Stationery,Office Equipment,19,3499.55,66491.46,0
-INV0417,XYZ Traders,Stationery,28,317.59,8892.59,0
-INV0418,XYZ Traders,Electronics,19,1669.46,31719.73,0
-INV0419,Prime Stationery,Software,11,2835.83,31194.08,0
-INV0420,Tech World,Electronics,26,3234.03,84084.81,0
-INV0421,XYZ Traders,Stationery,5,2969.8,14848.98,0
-INV0422,Tech World,Stationery,5,3549.23,17746.15,0
-INV0423,XYZ Traders,Furniture,22,229.23,5042.97,0
-INV0424,XYZ Traders,Office Equipment,8,684.52,5476.14,0
-INV0425,Global Office,Office Equipment,10,4370.93,43709.32,0
-INV0426,XYZ Traders,Electronics,6,3472.39,20834.36,0
-INV0427,ABC Supplies,Software,15,742.07,11131.08,0
-INV0428,Prime Stationery,Office Equipment,16,4241.96,67871.32,0
-INV0429,Prime Stationery,Furniture,28,1362.71,38155.88,0
-INV0430,Tech World,Electronics,17,2495.65,42426.01,0
-INV0431,XYZ Traders,Electronics,8,896.94,7175.55,0
-INV0432,ABC Supplies,Furniture,8,3608.53,28868.23,0
-INV0433,Tech World,Software,25,3400.9,85022.53,0
-INV0434,Global Office,Furniture,9,1213.34,10920.06,0
-INV0435,Tech World,Software,2,4344.32,8688.65,0
-INV0436,Tech World,Furniture,15,2126.27,31894.03,0
-INV0437,XYZ Traders,Furniture,18,1604.07,28873.3,0
-INV0438,Global Office,Stationery,3,931.18,2793.55,0
-INV0439,Tech World,Electronics,17,1477.61,25119.31,0
-INV0440,ABC Supplies,Furniture,4,305.73,1222.92,0
-INV0441,ABC Supplies,Furniture,4,2999.64,11998.54,0
-INV0442,Prime Stationery,Office Equipment,14,4242.71,59397.91,0
-INV0443,Global Office,Electronics,9,2835.11,25515.96,0
-INV0444,Global Office,Office Equipment,9,1252.52,11272.64,0
-INV0445,Prime Stationery,Electronics,25,361.61,9040.3,0
-INV0446,Tech World,Office Equipment,26,1230.21,31985.58,0
-INV0447,Global Office,Furniture,23,2197.38,50539.81,0
-INV0448,ABC Supplies,Furniture,18,3846.13,69230.43,0
-INV0449,ABC Supplies,Stationery,10,1101.65,11016.46,0
-INV0450,XYZ Traders,Office Equipment,21,3655.0,76754.98,0
-INV0451,Global Office,Software,4,4361.28,17445.12,0
-INV0452,Tech World,Stationery,12,2378.94,28547.34,0
-INV0453,Prime Stationery,Office Equipment,27,4142.87,111857.59,0
-INV0454,Prime Stationery,Office Equipment,8,2862.36,22898.84,0
-INV0455,Tech World,Stationery,2,3258.04,6516.07,0
-INV0456,XYZ Traders,Furniture,22,2726.14,59975.01,0
-INV0457,Prime Stationery,Office Equipment,13,2423.23,31501.98,0
-INV0458,Global Office,Furniture,21,1326.34,27853.07,0
-INV0459,XYZ Traders,Stationery,16,1655.33,26485.3,0
-INV0460,Global Office,Furniture,28,1591.86,44571.98,0
-INV0461,ABC Supplies,Electronics,2,2903.79,5807.57,0
-INV0462,XYZ Traders,Software,11,775.78,8533.55,0
-INV0463,Prime Stationery,Office Equipment,10,4600.6,46006.0,0
-INV0464,XYZ Traders,Software,15,3659.14,54887.17,0
-INV0465,XYZ Traders,Furniture,17,2126.94,36157.96,0
-INV0466,XYZ Traders,Office Equipment,8,961.4,7691.17,0
-INV0467,XYZ Traders,Furniture,18,4433.56,79804.12,0
-INV0468,Global Office,Electronics,23,4154.13,95545.1,0
-INV0469,ABC Supplies,Stationery,9,3664.26,32978.37,0
-INV0470,Tech World,Office Equipment,25,1503.43,37585.65,0
-INV0471,XYZ Traders,Electronics,8,2131.74,17053.95,0
-INV0472,Prime Stationery,Electronics,27,693.19,18716.17,0
-INV0473,XYZ Traders,Office Equipment,14,1107.39,15503.46,0
-INV0474,Prime Stationery,Furniture,28,3958.48,110837.44,0
-INV0475,Global Office,Electronics,26,3632.19,94436.83,0
-INV0476,Prime Stationery,Software,25,19051.1,476277.5,1
-INV0477,Tech World,Electronics,18,4499.49,80990.79,0
-INV0478,ABC Supplies,Furniture,22,2999.68,65992.94,0
-INV0479,Prime Stationery,Furniture,20,2441.45,48828.93,0
-INV0480,Prime Stationery,Software,20,1833.78,36675.59,0
-INV0481,ABC Supplies,Electronics,21,4714.15,98997.21,0
-INV0482,Tech World,Furniture,12,597.03,7164.41,0
-INV0483,XYZ Traders,Office Equipment,19,4668.26,88696.93,0
-INV0484,Prime Stationery,Stationery,14,4168.23,58355.23,0
-INV0485,ABC Supplies,Stationery,17,823.66,14002.28,0
-INV0486,Global Office,Stationery,24,2911.92,69886.2,0
-INV0487,ABC Supplies,Electronics,21,4359.43,91548.04,0
-INV0488,Global Office,Software,3,2944.68,8834.05,0
-INV0489,Tech World,Furniture,26,4554.56,118418.54,0
-INV0490,XYZ Traders,Office Equipment,23,4726.32,108705.41,0
-INV0491,ABC Supplies,Office Equipment,7,2227.45,15592.12,0
-INV0492,Prime Stationery,Electronics,17,2011.11,34188.79,0
-INV0493,Tech World,Stationery,12,4694.34,56332.1,0
-INV0494,ABC Supplies,Electronics,9,3440.67,30966.05,0
-INV0495,Prime Stationery,Software,15,756.91,11353.63,0
-INV0496,ABC Supplies,Software,18,403.0,7254.01,0
-INV0497,Global Office,Furniture,21,2910.22,61114.61,0
-INV0498,ABC Supplies,Furniture,13,4664.82,60642.67,0
-INV0499,ABC Supplies,Software,21,4252.39,89300.27,0
-INV0500,ABC Supplies,Software,8,3444.07,27552.55,0
-INV0501,Tech World,Software,14,867.76,12148.59,0
-INV0502,ABC Supplies,Electronics,8,1420.31,11362.49,0
-INV0503,Prime Stationery,Software,14,4402.45,61634.35,0
-INV0504,Global Office,Office Equipment,7,1077.47,7542.32,0
-INV0505,Global Office,Stationery,23,1536.51,35339.71,0
-INV0506,ABC Supplies,Software,12,822.08,9865.0,0
-INV0507,Tech World,Stationery,11,3445.32,37898.51,0
-INV0508,Tech World,Electronics,22,4731.12,104084.53,0
-INV0509,Prime Stationery,Stationery,22,1491.05,32803.02,0
-INV0510,ABC Supplies,Electronics,11,2481.95,27301.47,0
-INV0511,Global Office,Office Equipment,25,3244.83,81120.77,0
-INV0512,Tech World,Electronics,22,4997.44,109943.64,0
-INV0513,ABC Supplies,Electronics,28,703.08,19686.2,0
-INV0514,Tech World,Furniture,29,2593.14,75201.06,0
-INV0515,Tech World,Software,13,2048.58,26631.5,0
-INV0516,Global Office,Software,18,4355.94,78406.86,0
-INV0517,XYZ Traders,Office Equipment,2,2484.65,4969.29,0
-INV0518,Prime Stationery,Office Equipment,29,732.69,21248.07,0
-INV0519,Prime Stationery,Software,21,3245.24,68149.95,0
-INV0520,Global Office,Furniture,15,3899.75,58496.2,0
-INV0521,Tech World,Software,20,213.83,4276.6,0
-INV0522,ABC Supplies,Furniture,27,4322.99,116720.79,0
-INV0523,Tech World,Office Equipment,18,1092.91,19672.39,0
-INV0524,Global Office,Stationery,15,2849.93,42748.99,0
-INV0525,Prime Stationery,Office Equipment,19,2195.83,41720.73,0
-INV0526,Tech World,Office Equipment,23,3654.34,84049.78,0
-INV0527,Prime Stationery,Electronics,24,1981.58,47557.82,0
-INV0528,ABC Supplies,Electronics,12,4374.86,52498.36,0
-INV0529,Prime Stationery,Electronics,13,3706.38,48182.97,0
-INV0530,Prime Stationery,Electronics,22,3309.02,72798.51,0
-INV0531,XYZ Traders,Furniture,11,4021.95,44241.5,0
-INV0532,XYZ Traders,Software,5,3819.31,19096.55,0
-INV0533,XYZ Traders,Stationery,29,372.51,10802.66,0
-INV0534,Prime Stationery,Office Equipment,1,2094.72,2094.72,0
-INV0535,Global Office,Furniture,24,4667.88,112029.0,0
-INV0536,Prime Stationery,Stationery,3,803.48,2410.43,0
-INV0537,Global Office,Furniture,22,3738.06,82237.4,0
-INV0538,Global Office,Furniture,19,4878.04,92682.77,0
-INV0539,XYZ Traders,Office Equipment,23,450.55,10362.73,0
-INV0540,Tech World,Software,29,3474.53,100761.39,0
-INV0541,ABC Supplies,Electronics,7,2447.14,17129.98,0
-INV0542,XYZ Traders,Software,12,2980.04,35760.49,0
-INV0543,XYZ Traders,Office Equipment,15,609.64,9144.58,0
-INV0544,Tech World,Office Equipment,25,406.43,10160.83,0
-INV0545,ABC Supplies,Office Equipment,5,3400.96,17004.8,0
-INV0546,Prime Stationery,Stationery,15,4151.89,62278.28,0
-INV0547,Prime Stationery,Software,8,3953.67,31629.39,0
-INV0548,XYZ Traders,Software,10,2810.27,28102.67,0
-INV0549,ABC Supplies,Furniture,26,679.36,17663.38,0
-INV0550,XYZ Traders,Furniture,16,3502.61,56041.81,0
-INV0551,Global Office,Furniture,8,1361.07,10888.53,0
-INV0552,XYZ Traders,Office Equipment,1,4573.13,4573.13,0
-INV0553,XYZ Traders,Software,12,4223.67,50684.08,0
-INV0554,Prime Stationery,Office Equipment,5,3605.04,18025.19,0
-INV0555,Prime Stationery,Stationery,3,4754.46,14263.38,0
-INV0556,Prime Stationery,Furniture,1,350.82,350.82,0
-INV0557,Global Office,Office Equipment,4,3733.76,14935.05,0
-INV0558,Prime Stationery,Office Equipment,8,1785.17,14281.32,0
-INV0559,ABC Supplies,Stationery,3,4549.12,13647.35,0
-INV0560,Tech World,Electronics,10,1480.04,14800.41,0
-INV0561,ABC Supplies,Software,2,3679.31,7358.62,0
-INV0562,ABC Supplies,Electronics,11,4412.71,48539.76,0
-INV0563,Prime Stationery,Furniture,25,399.95,9998.82,0
-INV0564,Tech World,Office Equipment,10,2108.71,21087.08,0
-INV0565,Tech World,Stationery,21,3859.08,81040.75,0
-INV0566,Tech World,Stationery,14,2383.61,33370.55,0
-INV0567,Global Office,Software,7,1482.81,10379.69,0
-INV0568,Prime Stationery,Electronics,27,1255.07,33886.77,0
-INV0569,Tech World,Software,27,831.29,22444.77,0
-INV0570,Global Office,Office Equipment,2,4314.22,8628.44,0
-INV0571,XYZ Traders,Software,9,2961.71,26655.35,0
-INV0572,XYZ Traders,Stationery,16,566.65,9066.36,0
-INV0573,Global Office,Stationery,13,2036.39,26473.01,0
-INV0574,Global Office,Furniture,9,1965.12,17686.09,0
-INV0575,Prime Stationery,Furniture,20,1072.35,21446.96,0
-INV0576,Prime Stationery,Office Equipment,4,2290.44,9161.75,0
-INV0577,XYZ Traders,Electronics,22,1794.08,39469.69,0
-INV0578,Tech World,Software,10,1840.66,18406.58,0
-INV0579,XYZ Traders,Office Equipment,26,3747.33,97430.51,0
-INV0580,Tech World,Furniture,26,1271.66,33063.27,0
-INV0581,Tech World,Software,22,3280.93,72180.41,0
-INV0582,Prime Stationery,Furniture,12,2939.12,35269.42,0
-INV0583,ABC Supplies,Software,17,2926.84,49756.35,0
-INV0584,ABC Supplies,Electronics,14,3382.44,47354.09,0
-INV0585,Global Office,Office Equipment,14,2832.23,39651.27,0
-INV0586,Prime Stationery,Software,25,4420.42,110510.61,0
-INV0587,Tech World,Stationery,16,3442.78,55084.55,1
-INV0588,ABC Supplies,Stationery,21,2825.42,59333.9,0
-INV0589,Tech World,Software,25,4182.86,104571.57,0
-INV0590,ABC Supplies,Software,20,3109.5,62190.07,0
-INV0591,ABC Supplies,Software,11,1597.49,17572.42,0
-INV0592,ABC Supplies,Stationery,16,1194.06,19104.89,0
-INV0593,Prime Stationery,Stationery,19,931.17,17692.29,0
-INV0594,XYZ Traders,Software,23,4517.39,103899.86,0
-INV0595,Tech World,Furniture,6,3608.65,21651.9,0
-INV0596,Prime Stationery,Furniture,24,4699.42,112786.0,0
-INV0597,Prime Stationery,Electronics,19,3095.8,58820.21,0
-INV0598,Prime Stationery,Office Equipment,5,2472.32,12361.62,0
-INV0599,Prime Stationery,Furniture,26,486.64,12652.62,0
-INV0600,Prime Stationery,Stationery,4,3423.88,13695.53,0
-INV0601,Global Office,Furniture,15,2994.6,44919.03,0
-INV0602,Tech World,Electronics,29,4953.0,143637.08,0
-INV0603,Prime Stationery,Electronics,4,1347.96,5391.85,0
-INV0604,Tech World,Office Equipment,20,2747.54,54950.79,0
-INV0605,Global Office,Furniture,10,3324.6,33245.95,0
-INV0606,Global Office,Stationery,24,3294.04,79056.9,0
-INV0607,Tech World,Stationery,22,2894.21,63672.6,0
-INV0608,ABC Supplies,Software,3,3929.25,11787.76,0
-INV0609,XYZ Traders,Stationery,26,1183.91,30781.65,0
-INV0610,ABC Supplies,Office Equipment,5,3683.01,18415.05,0
-INV0611,ABC Supplies,Office Equipment,6,3174.73,19048.36,0
-INV0612,ABC Supplies,Stationery,21,4501.16,94524.37,0
-INV0613,Prime Stationery,Stationery,22,4266.53,93863.73,0
-INV0614,Global Office,Software,8,1712.71,13701.65,0
-INV0615,ABC Supplies,Stationery,7,1525.94,10681.57,0
-INV0616,Global Office,Software,21,4911.94,103150.66,0
-INV0617,Tech World,Software,10,2730.87,27308.73,0
-INV0618,XYZ Traders,Stationery,6,4550.82,27304.92,0
-INV0619,Tech World,Electronics,14,986.63,13812.8,0
-INV0620,Tech World,Electronics,4,3285.53,13142.12,0
-INV0621,Prime Stationery,Software,28,4087.33,114445.21,0
-INV0622,XYZ Traders,Stationery,25,4747.5,118687.43,0
-INV0623,Tech World,Electronics,13,1819.23,23650.02,0
-INV0624,Tech World,Stationery,20,3679.91,73598.19,0
-INV0625,XYZ Traders,Stationery,17,2786.3,47367.14,0
-INV0626,XYZ Traders,Stationery,23,491.02,11293.43,0
-INV0627,Tech World,Furniture,7,3512.0,24583.99,0
-INV0628,XYZ Traders,Stationery,4,3512.46,14049.85,0
-INV0629,Tech World,Furniture,29,4666.91,135340.47,0
-INV0630,Tech World,Software,14,2587.1,36219.4,0
-INV0631,Prime Stationery,Electronics,3,1305.2,3915.61,0
-INV0632,ABC Supplies,Electronics,24,413.91,9933.75,0
-INV0633,Tech World,Electronics,5,2195.08,10975.41,0
-INV0634,Global Office,Electronics,16,1649.2,26387.2,0
-INV0635,ABC Supplies,Electronics,26,3853.22,100183.82,0
-INV0636,ABC Supplies,Electronics,23,1900.49,43711.16,0
-INV0637,ABC Supplies,Electronics,20,4755.54,95110.83,0
-INV0638,Prime Stationery,Software,4,4819.09,19276.36,0
-INV0639,Tech World,Stationery,24,3180.36,76328.67,0
-INV0640,Prime Stationery,Office Equipment,24,4657.57,111781.67,0
-INV0641,Tech World,Furniture,2,3852.1,7704.2,0
-INV0642,Prime Stationery,Office Equipment,90,2824.93,254243.36,1
-INV0643,Prime Stationery,Office Equipment,19,1065.48,20244.08,0
-INV0644,Global Office,Stationery,28,2401.27,67235.56,0
-INV0645,Prime Stationery,Stationery,28,2892.2,80981.53,0
-INV0646,XYZ Traders,Stationery,19,4347.02,82593.3,0
-INV0647,Global Office,Electronics,17,2510.4,42676.8,0
-INV0648,Prime Stationery,Software,14,4508.84,63123.74,0
-INV0649,ABC Supplies,Electronics,19,3436.88,65300.63,0
-INV0650,XYZ Traders,Software,22,857.6,18867.1,0
-INV0651,XYZ Traders,Software,24,4975.91,119421.85,0
-INV0652,XYZ Traders,Office Equipment,13,2730.72,35499.32,0
-INV0653,Global Office,Office Equipment,12,2080.92,24971.04,0
-INV0654,Prime Stationery,Software,26,3363.75,87457.4,0
-INV0655,Prime Stationery,Software,6,722.69,4336.13,0
-INV0656,ABC Supplies,Electronics,21,3255.39,68363.1,0
-INV0657,ABC Supplies,Electronics,4,2591.53,10366.13,0
-INV0658,XYZ Traders,Office Equipment,19,2152.04,40888.68,0
-INV0659,ABC Supplies,Stationery,16,4774.5,76391.94,0
-INV0660,Global Office,Software,13,2708.19,35206.48,0
-INV0661,Prime Stationery,Electronics,4,1251.76,5007.06,0
-INV0662,XYZ Traders,Office Equipment,23,2403.02,55269.57,0
-INV0663,ABC Supplies,Electronics,17,4613.06,78422.01,0
-INV0664,Global Office,Software,23,1045.26,24040.94,0
-INV0665,Global Office,Software,1,1226.99,1226.99,0
-INV0666,ABC Supplies,Furniture,18,262.54,4725.75,0
-INV0667,Prime Stationery,Stationery,20,268.11,5362.24,0
-INV0668,ABC Supplies,Furniture,17,4181.08,71078.36,0
-INV0669,XYZ Traders,Office Equipment,27,3714.19,100283.09,0
-INV0670,ABC Supplies,Electronics,28,1904.2,53317.52,0
-INV0671,Global Office,Office Equipment,27,3551.89,95901.13,0
-INV0672,ABC Supplies,Software,15,2096.99,31454.83,0
-INV0673,Prime Stationery,Furniture,11,4773.9,52512.95,0
-INV0674,Tech World,Furniture,25,4841.85,121046.32,0
-INV0675,ABC Supplies,Furniture,28,2085.41,58391.48,0
-INV0676,Prime Stationery,Office Equipment,22,4300.27,94605.83,0
-INV0677,Prime Stationery,Software,13,3910.83,50840.76,0
-INV0678,Global Office,Electronics,1,1688.0,1688.0,0
-INV0679,Prime Stationery,Electronics,17,1313.79,22334.45,0
-INV0680,Prime Stationery,Office Equipment,6,2399.53,14397.16,0
-INV0681,Prime Stationery,Furniture,4,3950.47,15801.9,0
-INV0682,Prime Stationery,Stationery,20,4808.81,96176.11,0
-INV0683,XYZ Traders,Office Equipment,16,3865.18,61842.87,0
-INV0684,XYZ Traders,Office Equipment,15,4304.99,64574.9,0
-INV0685,Global Office,Software,27,3094.71,83557.13,0
-INV0686,ABC Supplies,Electronics,15,4209.96,63149.36,0
-INV0687,Prime Stationery,Office Equipment,6,3965.22,23791.32,0
-INV0688,ABC Supplies,Office Equipment,15,2009.53,30142.96,0
-INV0689,ABC Supplies,Furniture,14,2849.55,39893.75,0
-INV0690,Global Office,Furniture,28,4062.81,113758.82,0
-INV0691,Prime Stationery,Stationery,11,421.07,4631.8,0
-INV0692,Prime Stationery,Software,7,39505.21,276536.48,1
-INV0693,Tech World,Stationery,9,1053.86,9484.77,0
-INV0694,ABC Supplies,Furniture,26,2670.48,69432.52,0
-INV0695,ABC Supplies,Electronics,16,4079.72,65275.55,0
-INV0696,XYZ Traders,Furniture,5,1418.34,7091.71,0
-INV0697,Tech World,Software,25,1379.88,34496.89,0
-INV0698,XYZ Traders,Furniture,20,2133.27,42665.38,0
-INV0699,XYZ Traders,Software,29,4494.29,130334.28,0
-INV0700,XYZ Traders,Software,10,202.13,2021.25,0
-INV0701,Global Office,Software,18,4526.64,81479.5,0
-INV0702,Global Office,Software,3,938.27,2814.82,0
-INV0703,XYZ Traders,Software,13,4952.41,64381.39,0
-INV0704,Tech World,Electronics,11,4783.27,52615.92,0
-INV0705,ABC Supplies,Stationery,17,2574.44,43765.5,0
-INV0706,Tech World,Office Equipment,22,2661.06,58543.26,0
-INV0707,Prime Stationery,Stationery,13,2511.44,32648.68,0
-INV0708,Global Office,Software,6,3250.13,19500.78,0
-INV0709,ABC Supplies,Electronics,17,635.46,10802.89,0
-INV0710,ABC Supplies,Furniture,27,356.57,9627.29,0
-INV0711,Prime Stationery,Electronics,13,476.97,6200.66,0
-INV0712,Prime Stationery,Software,19,2332.95,44326.12,0
-INV0713,XYZ Traders,Electronics,21,1522.63,31975.23,0
-INV0714,Global Office,Electronics,19,3185.79,60530.01,0
-INV0715,Global Office,Software,10,4963.72,49637.23,0
-INV0716,Tech World,Electronics,3,2054.35,6163.05,0
-INV0717,XYZ Traders,Office Equipment,14,2954.44,41362.13,0
-INV0718,XYZ Traders,Office Equipment,26,2194.9,57067.37,0
-INV0719,XYZ Traders,Electronics,19,4266.9,81071.18,0
-INV0720,XYZ Traders,Furniture,5,37472.8,187364.02,1
-INV0721,Global Office,Software,29,4411.31,127927.9,0
-INV0722,Global Office,Office Equipment,5,4876.99,24384.93,0
-INV0723,XYZ Traders,Furniture,20,332.09,6641.84,0
-INV0724,Tech World,Electronics,17,4231.12,71929.0,0
-INV0725,ABC Supplies,Furniture,21,3808.51,79978.64,0
-INV0726,ABC Supplies,Stationery,10,1297.73,12977.33,0
-INV0727,Tech World,Office Equipment,5,4790.34,23951.68,0
-INV0728,XYZ Traders,Electronics,4,911.25,3645.02,0
-INV0729,Global Office,Software,6,3461.84,20771.04,0
-INV0730,ABC Supplies,Electronics,26,1279.47,33266.3,0
-INV0731,Prime Stationery,Software,4,2270.63,9082.51,0
-INV0732,Prime Stationery,Electronics,7,3651.97,25563.77,0
-INV0733,Tech World,Furniture,7,2903.96,20327.71,0
-INV0734,XYZ Traders,Furniture,18,2252.01,40536.16,0
-INV0735,ABC Supplies,Furniture,3,1766.42,5299.27,0
-INV0736,XYZ Traders,Stationery,1,4230.37,4230.37,0
-INV0737,ABC Supplies,Software,24,890.31,21367.41,0
-INV0738,Tech World,Furniture,25,2264.49,56612.35,0
-INV0739,Tech World,Stationery,4,4538.04,18152.15,0
-INV0740,Prime Stationery,Software,6,4260.08,25560.47,0
-INV0741,XYZ Traders,Electronics,9,17014.03,153126.29,1
-INV0742,Prime Stationery,Stationery,22,3862.92,84984.24,0
-INV0743,XYZ Traders,Office Equipment,14,4151.17,58116.41,0
-INV0744,Prime Stationery,Stationery,28,4466.66,125066.47,0
-INV0745,Global Office,Stationery,12,2813.63,33763.53,0
-INV0746,Global Office,Software,28,1181.41,33079.54,0
-INV0747,Global Office,Electronics,200,1425.48,285096.71,1
-INV0748,Global Office,Office Equipment,20,1619.33,32386.69,0
-INV0749,ABC Supplies,Furniture,24,3050.25,73206.05,0
-INV0750,Global Office,Furniture,25,357.49,8937.15,0
-INV0751,Tech World,Stationery,4,3253.0,13012.02,0
-INV0752,Tech World,Software,21,1948.9,40926.91,0
-INV0753,ABC Supplies,Software,24,1617.16,38811.86,0
-INV0754,Global Office,Furniture,12,4421.58,53059.0,0
-INV0755,Global Office,Office Equipment,10,2408.01,24080.11,0
-INV0756,Global Office,Electronics,22,656.25,14437.6,0
-INV0757,Prime Stationery,Office Equipment,28,4168.38,116714.77,0
-INV0758,XYZ Traders,Electronics,7,428.68,3000.75,0
-INV0759,Prime Stationery,Furniture,3,3688.4,11065.19,0
-INV0760,XYZ Traders,Electronics,23,3914.75,90039.25,0
-INV0761,Global Office,Software,28,1892.49,52989.79,0
-INV0762,Global Office,Stationery,14,4158.98,58225.74,0
-INV0763,Prime Stationery,Stationery,24,2675.17,64203.96,0
-INV0764,Prime Stationery,Furniture,10,2423.81,24238.1,0
-INV0765,XYZ Traders,Software,16,417.94,6686.97,0
-INV0766,Tech World,Office Equipment,16,1592.14,25474.24,0
-INV0767,XYZ Traders,Software,22,4668.85,102714.65,0
-INV0768,Prime Stationery,Stationery,10,2080.76,20807.55,0
-INV0769,Prime Stationery,Stationery,25,2824.16,70604.06,0
-INV0770,ABC Supplies,Software,13,2753.7,35798.15,0
-INV0771,Prime Stationery,Software,6,3034.07,18204.42,0
-INV0772,ABC Supplies,Stationery,12,494.39,5932.66,0
-INV0773,Tech World,Office Equipment,9,1938.45,17446.01,0
-INV0774,XYZ Traders,Furniture,13,3671.02,47723.2,0
-INV0775,XYZ Traders,Furniture,4,1162.69,4650.76,0
-INV0776,ABC Supplies,Software,24,1177.18,28252.23,0
-INV0777,XYZ Traders,Furniture,11,248.43,2732.78,0
-INV0778,Prime Stationery,Stationery,20,2299.91,45998.26,0
-INV0779,Global Office,Stationery,18,4437.13,79868.25,0
-INV0780,ABC Supplies,Software,26,449.12,11677.24,0
-INV0781,XYZ Traders,Software,11,1117.37,12291.07,0
-INV0782,ABC Supplies,Software,25,1688.41,42210.14,0
-INV0783,ABC Supplies,Office Equipment,21,3712.28,77957.85,0
-INV0784,Global Office,Furniture,4,3275.05,13100.2,0
-INV0785,Prime Stationery,Software,18,2196.53,39537.55,0
-INV0786,ABC Supplies,Electronics,1,3843.53,3843.53,0
-INV0787,XYZ Traders,Electronics,27,3126.23,84408.18,0
-INV0788,Tech World,Stationery,7,4501.0,31506.97,0
-INV0789,ABC Supplies,Furniture,6,4126.53,24759.17,0
-INV0790,ABC Supplies,Software,15,1413.51,21202.58,0
-INV0791,Global Office,Electronics,18,1502.91,27052.29,0
-INV0792,Prime Stationery,Furniture,24,801.71,19241.07,0
-INV0793,Tech World,Stationery,11,1817.43,19991.74,0
-INV0794,XYZ Traders,Office Equipment,20,4997.81,99956.22,0
-INV0795,Tech World,Furniture,24,2147.61,51542.53,0
-INV0796,XYZ Traders,Furniture,15,1258.34,18875.17,0
-INV0797,Prime Stationery,Office Equipment,16,3859.92,61758.69,0
-INV0798,XYZ Traders,Furniture,7,2803.86,19627.03,0
-INV0799,Global Office,Stationery,21,918.09,19279.83,0
-INV0800,Global Office,Stationery,10,2027.31,20273.1,0
-INV0801,Global Office,Office Equipment,26,2189.45,56925.82,0
-INV0802,Global Office,Software,12,3818.38,45820.59,0
-INV0803,Tech World,Electronics,24,299.22,7181.34,0
-INV0804,Prime Stationery,Software,14,1491.29,20878.12,0
-INV0805,XYZ Traders,Furniture,25,2684.46,67111.56,0
-INV0806,XYZ Traders,Electronics,5,1490.46,7452.32,0
-INV0807,Global Office,Office Equipment,26,3216.48,83628.57,0
-INV0808,Global Office,Office Equipment,21,2512.96,52772.24,0
-INV0809,ABC Supplies,Electronics,18,1936.21,34851.77,0
-INV0810,Prime Stationery,Stationery,5,4756.2,23781.01,0
-INV0811,Tech World,Electronics,3,3234.37,9703.1,0
-INV0812,XYZ Traders,Furniture,138,3983.09,549665.8,1
-INV0813,ABC Supplies,Stationery,26,2888.44,75099.44,0
-INV0814,ABC Supplies,Office Equipment,5,3947.51,19737.56,0
-INV0815,XYZ Traders,Electronics,24,3600.75,86418.01,0
-INV0816,Tech World,Software,17,1026.03,17442.48,0
-INV0817,ABC Supplies,Software,19,4867.62,92484.7,0
-INV0818,ABC Supplies,Furniture,19,2354.31,44731.8,0
-INV0819,Prime Stationery,Software,125,5244.33,655540.84,1
-INV0820,Tech World,Electronics,21,1064.94,22363.73,0
-INV0821,ABC Supplies,Electronics,12,671.53,8058.34,0
-INV0822,Tech World,Software,25,4056.89,101422.17,0
-INV0823,XYZ Traders,Electronics,29,785.75,22786.64,0
-INV0824,Global Office,Furniture,9,800.6,7205.41,0
-INV0825,ABC Supplies,Stationery,1,4282.26,4282.26,0
-INV0826,Prime Stationery,Furniture,18,1854.1,33373.79,0
-INV0827,XYZ Traders,Furniture,21,348.12,7310.48,0
-INV0828,Tech World,Electronics,4,449.1,1796.39,0
-INV0829,XYZ Traders,Stationery,10,882.42,8824.18,0
-INV0830,ABC Supplies,Electronics,25,1224.29,30607.2,0
-INV0831,Tech World,Office Equipment,7,3392.7,23748.91,0
-INV0832,Global Office,Electronics,22,955.17,21013.66,0
-INV0833,XYZ Traders,Electronics,23,770.6,17723.73,0
-INV0834,ABC Supplies,Electronics,1,3870.65,3870.65,0
-INV0835,Prime Stationery,Stationery,17,3421.07,58158.11,0
-INV0836,Tech World,Electronics,24,2289.56,54949.35,0
-INV0837,XYZ Traders,Stationery,29,2836.69,82263.92,0
-INV0838,XYZ Traders,Software,29,1697.52,49228.18,0
-INV0839,Global Office,Office Equipment,2,2516.0,5032.0,0
-INV0840,Global Office,Stationery,28,2632.03,73696.8,0
-INV0841,Prime Stationery,Software,26,2058.74,53527.21,0
-INV0842,Prime Stationery,Stationery,11,4551.55,50067.01,0
-INV0843,ABC Supplies,Stationery,9,277.1,2493.87,0
-INV0844,ABC Supplies,Office Equipment,7,3954.42,27680.95,0
-INV0845,Prime Stationery,Furniture,22,797.04,17534.83,0
-INV0846,Prime Stationery,Furniture,17,4028.23,68479.86,0
-INV0847,Tech World,Stationery,17,3156.38,53658.41,0
-INV0848,Global Office,Electronics,2,4247.73,8495.47,0
-INV0849,ABC Supplies,Software,6,668.07,4008.41,0
-INV0850,Global Office,Electronics,14,2883.11,40363.5,0
-INV0851,Global Office,Electronics,6,2605.22,15631.33,0
-INV0852,Prime Stationery,Stationery,2,3589.73,7179.45,0
-INV0853,Tech World,Stationery,1,2764.59,2764.59,0
-INV0854,XYZ Traders,Stationery,10,2795.53,27955.26,0
-INV0855,Tech World,Stationery,21,2262.06,47503.27,0
-INV0856,Tech World,Furniture,5,1682.41,8412.03,0
-INV0857,Global Office,Stationery,2,2514.87,5029.74,0
-INV0858,Tech World,Furniture,22,768.76,16912.79,0
-INV0859,ABC Supplies,Furniture,16,4815.26,77044.22,0
-INV0860,Global Office,Stationery,25,3629.17,90729.29,0
-INV0861,ABC Supplies,Office Equipment,2,4771.84,9543.68,0
-INV0862,XYZ Traders,Software,10,1288.29,12882.91,0
-INV0863,Global Office,Electronics,2,4420.84,8841.67,0
-INV0864,XYZ Traders,Furniture,16,4082.19,65315.07,0
-INV0865,Global Office,Software,16,3450.33,55205.31,0
-INV0866,Prime Stationery,Office Equipment,19,3200.14,60802.66,0
-INV0867,Tech World,Electronics,29,1719.44,49863.71,0
-INV0868,Prime Stationery,Electronics,7,4118.77,28831.4,0
-INV0869,XYZ Traders,Furniture,22,2607.27,57360.03,0
-INV0870,Tech World,Stationery,12,540.28,6483.35,0
-INV0871,Global Office,Office Equipment,24,1701.74,40841.84,0
-INV0872,Tech World,Furniture,15,4689.43,70341.39,0
-INV0873,ABC Supplies,Office Equipment,8,4283.27,34266.12,0
-INV0874,Tech World,Stationery,6,4913.15,29478.88,0
-INV0875,ABC Supplies,Stationery,28,3214.37,90002.31,0
-INV0876,Tech World,Furniture,27,1388.05,37477.31,0
-INV0877,ABC Supplies,Stationery,10,981.51,9815.12,0
-INV0878,XYZ Traders,Software,3,1097.19,3291.57,0
-INV0879,Prime Stationery,Electronics,19,295.02,5605.36,0
-INV0880,Global Office,Furniture,17,2075.27,35279.66,0
-INV0881,Tech World,Office Equipment,7,1118.85,7831.97,0
-INV0882,Prime Stationery,Software,21,2175.95,45694.87,0
-INV0883,Global Office,Furniture,20,4687.97,93759.47,0
-INV0884,Global Office,Stationery,26,2266.59,58931.42,0
-INV0885,ABC Supplies,Stationery,4,4414.33,17657.3,0
-INV0886,XYZ Traders,Stationery,14,3106.42,43489.92,0
-INV0887,XYZ Traders,Stationery,20,1386.23,27724.63,0
-INV0888,Prime Stationery,Office Equipment,22,1908.1,41978.26,0
-INV0889,XYZ Traders,Software,15,602.81,9042.21,0
-INV0890,Tech World,Electronics,24,1800.62,43214.89,0
-INV0891,XYZ Traders,Office Equipment,8,3452.2,27617.57,0
-INV0892,Prime Stationery,Office Equipment,21,546.13,11468.8,0
-INV0893,XYZ Traders,Electronics,15,1185.93,17788.9,0
-INV0894,Tech World,Electronics,22,2030.92,44680.17,0
-INV0895,ABC Supplies,Stationery,20,4913.84,98276.76,0
-INV0896,Prime Stationery,Office Equipment,28,3967.34,111085.43,0
-INV0897,ABC Supplies,Furniture,14,3720.74,52090.31,0
-INV0898,ABC Supplies,Electronics,27,757.72,20458.35,0
-INV0899,ABC Supplies,Electronics,29,3948.78,114514.63,0
-INV0900,Global Office,Software,9,3969.29,35723.61,0
-INV0901,Global Office,Furniture,8,3085.29,24682.34,0
-INV0902,ABC Supplies,Furniture,26,4953.74,128797.15,0
-INV0903,Prime Stationery,Electronics,28,1761.22,49314.12,0
-INV0904,Tech World,Stationery,26,4718.11,122670.8,0
-INV0905,Tech World,Software,17,4590.71,78042.06,0
-INV0906,XYZ Traders,Furniture,2,255.11,510.21,0
-INV0907,Prime Stationery,Electronics,25,2360.56,59013.98,0
-INV0908,Global Office,Furniture,24,4890.1,117362.41,0
-INV0909,ABC Supplies,Software,3,694.98,2084.95,0
-INV0910,XYZ Traders,Software,8,2829.37,22634.93,0
-INV0911,Tech World,Office Equipment,12,4899.0,58787.95,0
-INV0912,Global Office,Electronics,1,2866.38,2866.38,0
-INV0913,Global Office,Software,10,1111.11,11111.13,0
-INV0914,ABC Supplies,Office Equipment,20,2994.48,59889.59,0
-INV0915,Tech World,Office Equipment,3,1181.31,3543.94,0
-INV0916,Prime Stationery,Furniture,6,2694.58,16167.48,0
-INV0917,Global Office,Furniture,7,555.4,3887.82,0
-INV0918,ABC Supplies,Office Equipment,20,3106.32,62126.34,0
-INV0919,Prime Stationery,Furniture,23,2680.59,61653.61,0
-INV0920,Tech World,Software,25,3752.77,93819.36,0
-INV0921,Global Office,Stationery,27,3227.36,87138.78,0
-INV0922,Prime Stationery,Software,18,2838.11,51085.98,0
-INV0923,Prime Stationery,Office Equipment,11,3510.94,38620.32,0
-INV0924,Prime Stationery,Office Equipment,19,890.92,16927.5,0
-INV0925,Global Office,Software,5,3057.73,15288.63,0
-INV0926,Global Office,Furniture,19,1026.13,19496.49,0
-INV0927,XYZ Traders,Furniture,11,4642.51,51067.57,0
-INV0928,Tech World,Office Equipment,24,528.0,12672.09,0
-INV0929,ABC Supplies,Electronics,12,2265.8,27189.59,0
-INV0930,Prime Stationery,Furniture,10,3539.83,35398.28,0
-INV0931,XYZ Traders,Software,8,2398.51,19188.05,0
-INV0932,ABC Supplies,Furniture,24,642.06,15409.37,0
-INV0933,XYZ Traders,Software,28,2856.22,79974.14,0
-INV0934,Global Office,Office Equipment,28,3279.83,91835.33,0
-INV0935,Prime Stationery,Furniture,9,3578.2,32203.83,0
-INV0936,ABC Supplies,Software,4,1991.65,7966.59,0
-INV0937,ABC Supplies,Office Equipment,5,2905.57,14527.84,0
-INV0938,ABC Supplies,Electronics,21,2363.3,49629.2,0
-INV0939,ABC Supplies,Software,8,3425.87,27406.95,0
-INV0940,ABC Supplies,Electronics,23,3001.07,69024.69,0
-INV0941,XYZ Traders,Electronics,9,2723.63,24512.67,0
-INV0942,Prime Stationery,Stationery,15,1397.72,20965.75,0
-INV0943,Global Office,Furniture,15,209.69,3145.33,0
-INV0944,Global Office,Software,16,1035.59,16569.47,0
-INV0945,Global Office,Electronics,14,761.92,10666.84,0
-INV0946,Global Office,Stationery,8,2355.61,18844.85,0
-INV0947,XYZ Traders,Office Equipment,18,3138.84,56499.1,0
-INV0948,Tech World,Software,10,1222.81,12228.08,0
-INV0949,Prime Stationery,Electronics,28,4707.47,131809.27,0
-INV0950,ABC Supplies,Furniture,20,232.07,4641.48,0
-INV0951,Tech World,Stationery,6,3907.04,23442.27,0
-INV0952,Global Office,Electronics,12,3200.98,38411.79,0
-INV0953,Tech World,Furniture,2,1993.06,3986.13,0
-INV0954,Prime Stationery,Electronics,7,442.35,3096.43,0
-INV0955,ABC Supplies,Software,16,3211.94,51390.97,0
-INV0956,ABC Supplies,Software,3,2050.94,6152.83,0
-INV0957,Prime Stationery,Software,13,4694.08,61023.07,0
-INV0958,Prime Stationery,Stationery,3,2801.55,8404.66,0
-INV0959,Global Office,Software,27,4710.33,127178.84,0
-INV0960,ABC Supplies,Furniture,18,1258.32,22649.79,0
-INV0961,Tech World,Electronics,11,3683.48,40518.33,0
-INV0962,XYZ Traders,Office Equipment,8,3162.8,25302.36,0
-INV0963,XYZ Traders,Furniture,6,3749.16,22494.96,0
-INV0964,Prime Stationery,Furniture,1,1230.41,1230.41,0
-INV0965,Global Office,Software,28,3391.97,94975.26,0
-INV0966,XYZ Traders,Stationery,1,2590.59,2590.59,0
-INV0967,ABC Supplies,Electronics,23,3765.56,86607.88,0
-INV0968,Prime Stationery,Stationery,8,1769.81,14158.51,0
-INV0969,Tech World,Electronics,5,4472.27,22361.37,0
-INV0970,Prime Stationery,Electronics,28,604.65,16930.1,0
-INV0971,Tech World,Stationery,16,4074.51,65192.14,0
-INV0972,Prime Stationery,Furniture,11,4334.33,47677.68,0
-INV0973,Prime Stationery,Electronics,5,4122.81,20614.06,0
-INV0974,Prime Stationery,Stationery,4,2661.09,10644.35,0
-INV0975,Tech World,Electronics,6,2304.25,13825.49,0
-INV0976,Tech World,Office Equipment,14,4982.06,69748.83,0
-INV0977,Prime Stationery,Furniture,22,1300.03,28600.56,0
-INV0978,XYZ Traders,Software,19,2825.0,53675.09,0
-INV0979,Global Office,Electronics,9,3419.24,30773.18,0
-INV0980,Global Office,Office Equipment,12,3564.16,42769.98,0
-INV0981,Global Office,Software,11,1179.32,12972.5,0
-INV0982,Tech World,Software,14,3339.17,46748.4,0
-INV0983,Tech World,Electronics,23,4128.17,94948.0,0
-INV0984,XYZ Traders,Stationery,16,440.09,7041.43,0
-INV0985,Global Office,Electronics,1,4575.3,4575.3,0
-INV0986,Global Office,Office Equipment,13,341.62,4441.05,0
-INV0987,Prime Stationery,Software,23,1908.66,43899.2,0
-INV0988,Tech World,Electronics,21,275.9,5793.97,0
-INV0989,Global Office,Stationery,21,570.3,11976.23,0
-INV0990,XYZ Traders,Electronics,13,4573.61,59456.9,0
-INV0991,XYZ Traders,Furniture,2,1903.33,3806.66,0
-INV0992,Global Office,Stationery,4,2238.9,8955.61,0
-INV0993,Tech World,Office Equipment,28,1233.65,34542.28,0
-INV0994,XYZ Traders,Software,6,3066.06,18396.36,0
-INV0995,Prime Stationery,Electronics,26,3055.06,79431.44,0
-INV0996,XYZ Traders,Stationery,27,1986.56,53637.17,0
-INV0997,ABC Supplies,Furniture,23,1798.57,41367.05,0
-INV0998,ABC Supplies,Stationery,27,4447.83,120091.37,0
-INV0999,Tech World,Furniture,5,2039.76,10198.82,0
-INV1000,Global Office,Office Equipment,25,2568.8,64220.12,0
+invoice_id,vendor,category,invoice_date,quantity,unit_price,amount,actual_anomaly
+INV0001,Tech World,Software,2026-06-09,6,4764.46,28586.74,0
+INV0002,Prime Stationery,Software,2026-01-11,17,2970.19,50493.2,0
+INV0003,Global Office,Software,2026-05-18,14,1914.18,26798.54,0
+INV0004,Prime Stationery,Software,2026-03-19,17,3980.24,67664.01,0
+INV0005,Prime Stationery,Furniture,2026-03-18,8,10989.74,87917.89,1
+INV0006,XYZ Traders,Furniture,2026-09-11,11,2907.56,31983.11,0
+INV0007,Global Office,Electronics,2026-09-15,20,1921.18,38423.53,0
+INV0008,Global Office,Stationery,2026-11-16,28,3351.83,93851.22,0
+INV0009,Global Office,Software,2026-10-18,1,1353.91,1353.91,0
+INV0010,Prime Stationery,Electronics,2026-09-20,26,1119.65,29110.8,0
+INV0011,Tech World,Stationery,2026-03-26,7,4607.55,32252.83,0
+INV0012,Global Office,Office Equipment,2026-05-26,21,688.66,14461.81,0
+INV0013,Prime Stationery,Furniture,2026-11-19,21,2628.6,55200.56,0
+INV0014,XYZ Traders,Stationery,2026-02-11,17,1260.09,21421.59,0
+INV0015,Tech World,Office Equipment,2026-05-05,10,386.86,3868.64,0
+INV0016,XYZ Traders,Stationery,2026-06-16,11,372.89,4101.79,0
+INV0017,Tech World,Furniture,2026-08-29,22,1041.06,22903.42,0
+INV0018,Prime Stationery,Furniture,2026-10-07,9,4360.5,39244.48,0
+INV0019,ABC Supplies,Electronics,2026-07-07,9,1555.9,14003.08,0
+INV0020,Tech World,Software,2026-10-29,24,4762.2,114292.9,0
+INV0021,XYZ Traders,Stationery,2026-01-19,5,2991.79,14958.94,0
+INV0022,Prime Stationery,Stationery,2026-03-09,17,2295.75,39027.72,0
+INV0023,Tech World,Office Equipment,2026-08-06,9,2984.43,26859.84,0
+INV0024,ABC Supplies,Furniture,2026-04-12,17,2680.15,45562.59,0
+INV0025,ABC Supplies,Stationery,2026-02-11,24,3842.13,92211.02,0
+INV0026,Global Office,Furniture,2026-10-15,21,1555.98,32675.6,0
+INV0027,Global Office,Stationery,2026-06-16,19,1894.64,35998.2,0
+INV0028,XYZ Traders,Electronics,2026-04-19,27,4491.65,121274.62,0
+INV0029,Tech World,Software,2026-02-05,7,4742.99,33200.94,0
+INV0030,Tech World,Stationery,2026-08-20,23,4484.28,103138.43,0
+INV0031,Global Office,Furniture,2026-08-17,9,2213.35,19920.15,0
+INV0032,Tech World,Electronics,2026-12-19,7,3945.75,27620.28,0
+INV0033,Tech World,Stationery,2026-06-13,13,2486.41,32323.35,0
+INV0034,ABC Supplies,Office Equipment,2026-03-14,11,2588.19,28470.1,0
+INV0035,Global Office,Software,2026-05-16,14,1182.46,16554.5,0
+INV0036,Prime Stationery,Stationery,2026-12-19,19,3037.43,57711.08,0
+INV0037,Global Office,Electronics,2026-03-11,11,1093.45,12027.98,0
+INV0038,Prime Stationery,Office Equipment,2026-07-15,13,1791.51,23289.64,0
+INV0039,ABC Supplies,Electronics,2026-09-26,14,4304.14,60258.03,0
+INV0040,XYZ Traders,Electronics,2026-02-18,13,1193.96,15521.53,0
+INV0041,Tech World,Office Equipment,2026-11-12,1,541.56,541.56,0
+INV0042,ABC Supplies,Electronics,2026-05-10,8,531.24,4249.89,0
+INV0043,Tech World,Office Equipment,2026-01-05,12,4715.77,56589.19,0
+INV0044,XYZ Traders,Stationery,2026-01-27,19,2633.22,50031.14,0
+INV0045,XYZ Traders,Office Equipment,2026-06-09,12,2165.18,25982.14,0
+INV0046,ABC Supplies,Office Equipment,2026-05-29,8,4092.22,32737.74,0
+INV0047,XYZ Traders,Software,2026-09-21,8,4211.96,33695.72,0
+INV0048,Prime Stationery,Office Equipment,2026-08-18,29,1794.52,52040.99,0
+INV0049,XYZ Traders,Office Equipment,2026-07-19,21,3529.37,74116.7,0
+INV0050,Tech World,Stationery,2026-02-19,13,3901.39,50718.06,0
+INV0051,Tech World,Software,2026-03-08,12,3342.32,40107.88,0
+INV0052,Tech World,Furniture,2026-10-27,29,927.66,26902.03,0
+INV0053,Tech World,Stationery,2026-02-27,16,4404.24,70467.82,0
+INV0054,Prime Stationery,Stationery,2026-09-16,1,2787.65,2787.65,0
+INV0055,Global Office,Furniture,2026-12-08,13,1555.87,20226.28,0
+INV0056,ABC Supplies,Office Equipment,2026-11-22,26,2241.1,58268.48,0
+INV0057,Tech World,Electronics,2026-05-10,7,380.34,2662.39,0
+INV0058,XYZ Traders,Software,2026-08-03,28,813.76,22785.3,0
+INV0059,Tech World,Electronics,2026-06-21,26,3874.62,100740.23,0
+INV0060,XYZ Traders,Furniture,2026-09-15,5,200.06,1000.28,0
+INV0061,XYZ Traders,Stationery,2026-04-12,8,2199.52,17596.13,0
+INV0062,Tech World,Stationery,2026-07-28,25,15622.51,390562.83,1
+INV0063,Prime Stationery,Software,2026-10-18,27,462.25,12480.62,0
+INV0064,XYZ Traders,Stationery,2026-12-20,14,4870.78,68190.85,0
+INV0065,XYZ Traders,Stationery,2026-10-13,23,1285.4,29564.24,0
+INV0066,Tech World,Software,2026-04-26,13,1660.15,21582.0,0
+INV0067,XYZ Traders,Software,2026-09-21,15,1658.92,24883.86,0
+INV0068,XYZ Traders,Furniture,2026-05-30,23,1306.0,30038.0,0
+INV0069,Tech World,Stationery,2026-10-27,17,207.07,3520.26,0
+INV0070,Tech World,Stationery,2026-02-05,15,3700.86,55512.83,0
+INV0071,ABC Supplies,Furniture,2026-11-29,20,4840.86,96817.17,0
+INV0072,Prime Stationery,Office Equipment,2026-10-14,18,1276.61,22978.96,0
+INV0073,Prime Stationery,Office Equipment,2026-10-30,18,3382.63,60887.28,0
+INV0074,XYZ Traders,Office Equipment,2026-11-07,2,3761.1,7522.2,0
+INV0075,Prime Stationery,Furniture,2026-07-27,4,4272.44,17089.77,0
+INV0076,XYZ Traders,Stationery,2026-04-16,1,2228.62,2228.62,0
+INV0077,ABC Supplies,Furniture,2026-06-07,4,1654.07,6616.27,0
+INV0078,Tech World,Furniture,2026-05-01,18,1761.42,31705.5,0
+INV0079,Tech World,Office Equipment,2026-02-24,5,3620.58,18102.91,0
+INV0080,Tech World,Electronics,2026-01-12,19,4120.54,78290.29,0
+INV0081,Prime Stationery,Stationery,2026-05-25,15,1071.75,16076.21,0
+INV0082,ABC Supplies,Office Equipment,2026-05-16,28,1980.52,55454.47,0
+INV0083,Prime Stationery,Electronics,2026-01-03,8,4529.31,36234.5,0
+INV0084,Prime Stationery,Electronics,2026-05-24,20,4072.13,81442.58,0
+INV0085,ABC Supplies,Software,2026-01-30,17,4927.32,83764.45,0
+INV0086,ABC Supplies,Stationery,2026-08-25,1,3820.39,3820.39,0
+INV0087,ABC Supplies,Electronics,2026-10-06,12,2087.34,25048.04,0
+INV0088,ABC Supplies,Office Equipment,2026-12-14,26,3035.06,78911.6,0
+INV0089,Tech World,Software,2026-04-25,19,3372.87,64084.5,0
+INV0090,Global Office,Stationery,2026-04-14,15,576.59,8648.82,0
+INV0091,Global Office,Furniture,2026-04-28,9,2813.59,25322.27,0
+INV0092,ABC Supplies,Office Equipment,2026-01-05,7,3604.74,25233.18,0
+INV0093,Global Office,Electronics,2026-12-26,2,1003.14,2006.28,0
+INV0094,Global Office,Electronics,2026-09-05,29,3947.03,114463.94,0
+INV0095,ABC Supplies,Office Equipment,2026-12-30,9,3002.11,27018.98,0
+INV0096,Global Office,Electronics,2026-11-17,10,4770.66,47706.65,0
+INV0097,Prime Stationery,Software,2026-05-01,2,403.63,807.25,0
+INV0098,XYZ Traders,Stationery,2026-10-13,19,1473.57,27997.74,0
+INV0099,XYZ Traders,Software,2026-05-29,11,3087.46,33962.04,0
+INV0100,ABC Supplies,Electronics,2026-03-25,13,1623.49,21105.34,0
+INV0101,Tech World,Furniture,2026-08-19,10,3629.24,36292.36,0
+INV0102,ABC Supplies,Stationery,2026-10-15,14,3843.23,53805.15,0
+INV0103,Tech World,Stationery,2026-06-10,18,692.08,12457.38,0
+INV0104,XYZ Traders,Office Equipment,2026-09-29,19,2666.5,50663.53,0
+INV0105,ABC Supplies,Office Equipment,2026-02-07,22,2642.67,58138.84,0
+INV0106,Prime Stationery,Furniture,2026-08-14,9,1972.55,17752.93,0
+INV0107,Global Office,Stationery,2026-05-22,25,4678.04,116950.98,0
+INV0108,Tech World,Furniture,2026-10-19,7,4172.03,29204.21,0
+INV0109,Global Office,Office Equipment,2026-05-31,28,3546.61,99304.94,0
+INV0110,Global Office,Office Equipment,2026-04-24,3,3628.77,10886.3,0
+INV0111,ABC Supplies,Stationery,2026-08-25,20,2416.24,48324.75,0
+INV0112,Global Office,Software,2026-03-07,6,4620.77,27724.64,0
+INV0113,Prime Stationery,Electronics,2026-12-27,27,3534.06,95419.57,0
+INV0114,Global Office,Office Equipment,2026-12-07,21,3699.11,77681.29,0
+INV0115,ABC Supplies,Office Equipment,2026-09-15,2,4336.12,8672.23,0
+INV0116,Prime Stationery,Software,2026-09-06,29,1515.54,43950.77,0
+INV0117,XYZ Traders,Software,2026-11-27,6,4073.94,24443.64,0
+INV0118,Global Office,Furniture,2026-11-19,3,1137.15,3411.46,0
+INV0119,ABC Supplies,Furniture,2026-06-29,16,1857.64,29722.26,0
+INV0120,XYZ Traders,Electronics,2026-07-09,8,1810.93,14487.44,0
+INV0121,XYZ Traders,Electronics,2026-06-03,2,4896.92,9793.84,0
+INV0122,Tech World,Stationery,2026-07-15,17,4311.38,73293.44,0
+INV0123,Prime Stationery,Furniture,2026-11-07,9,3565.62,32090.54,0
+INV0124,Global Office,Office Equipment,2026-09-19,12,3689.87,44278.47,0
+INV0125,ABC Supplies,Furniture,2026-05-23,3,2897.95,8693.85,0
+INV0126,Tech World,Office Equipment,2026-12-08,11,4746.04,52206.39,0
+INV0127,Prime Stationery,Software,2026-11-12,1,2582.04,2582.04,0
+INV0128,Tech World,Furniture,2026-04-11,23,2026.49,46609.16,0
+INV0129,Prime Stationery,Software,2026-09-01,13,982.57,12773.41,0
+INV0130,Prime Stationery,Electronics,2026-01-12,15,3973.79,59606.81,0
+INV0131,Global Office,Electronics,2026-08-27,26,3725.33,96858.6,0
+INV0132,Prime Stationery,Stationery,2026-02-18,5,2044.9,10224.52,0
+INV0133,Tech World,Furniture,2026-02-11,21,320.93,6739.5,0
+INV0134,Prime Stationery,Software,2026-06-15,17,4227.19,71862.18,0
+INV0135,Global Office,Office Equipment,2026-03-23,25,254.81,6370.16,0
+INV0136,Global Office,Electronics,2026-10-18,23,3577.76,82288.46,0
+INV0137,Tech World,Electronics,2026-06-07,24,4857.23,116573.62,0
+INV0138,XYZ Traders,Office Equipment,2026-08-04,25,2300.77,57519.36,0
+INV0139,XYZ Traders,Software,2026-06-07,6,1327.87,7967.23,0
+INV0140,Prime Stationery,Software,2026-05-14,28,3583.38,100334.66,0
+INV0141,ABC Supplies,Furniture,2026-03-08,21,4122.22,86566.52,0
+INV0142,Prime Stationery,Furniture,2026-12-02,22,2822.87,62103.04,0
+INV0143,Tech World,Stationery,2026-01-07,11,4841.77,53259.46,0
+INV0144,Tech World,Electronics,2026-01-14,18,448.01,8064.18,0
+INV0145,Tech World,Furniture,2026-03-14,4,2623.02,10492.08,0
+INV0146,Tech World,Software,2026-06-12,3,3648.58,10945.74,0
+INV0147,Tech World,Office Equipment,2026-03-07,13,4340.67,56428.77,0
+INV0148,Global Office,Software,2026-12-13,23,1060.43,24389.82,0
+INV0149,XYZ Traders,Electronics,2026-05-10,9,4040.02,36360.15,0
+INV0150,Tech World,Software,2026-07-25,21,2852.99,59912.87,0
+INV0151,ABC Supplies,Stationery,2026-10-03,6,2103.46,12620.75,0
+INV0152,ABC Supplies,Electronics,2026-09-13,26,832.23,21638.04,0
+INV0153,ABC Supplies,Office Equipment,2026-09-23,28,4353.42,121895.75,0
+INV0154,ABC Supplies,Stationery,2026-01-25,12,954.91,11458.94,0
+INV0155,Global Office,Electronics,2026-10-08,2,1686.98,3373.96,0
+INV0156,ABC Supplies,Office Equipment,2026-09-10,3,1592.22,4776.66,0
+INV0157,Tech World,Stationery,2026-11-06,3,4382.79,13148.36,0
+INV0158,Prime Stationery,Stationery,2026-10-16,28,3428.97,96011.28,0
+INV0159,ABC Supplies,Electronics,2026-06-13,12,4024.07,48288.85,0
+INV0160,Global Office,Furniture,2026-04-05,15,1402.25,21033.69,0
+INV0161,Global Office,Stationery,2026-09-27,9,3199.4,28794.56,0
+INV0162,ABC Supplies,Stationery,2026-11-17,23,2944.38,67720.76,0
+INV0163,Prime Stationery,Office Equipment,2026-04-20,8,4197.59,33580.69,0
+INV0164,ABC Supplies,Software,2026-12-02,11,4549.22,50041.4,0
+INV0165,Global Office,Electronics,2026-11-06,16,258.35,4133.64,0
+INV0166,XYZ Traders,Electronics,2026-08-26,26,3435.3,89317.69,0
+INV0167,Tech World,Furniture,2026-01-25,27,448.81,12117.92,0
+INV0168,Global Office,Furniture,2026-05-21,25,2834.52,70863.04,0
+INV0169,ABC Supplies,Electronics,2026-04-27,22,1580.64,34774.02,0
+INV0170,Tech World,Furniture,2026-01-25,4,1672.53,6690.11,0
+INV0171,ABC Supplies,Office Equipment,2026-03-20,28,1894.2,53037.62,0
+INV0172,ABC Supplies,Electronics,2026-03-09,1,3182.2,3182.2,0
+INV0173,XYZ Traders,Furniture,2026-06-22,24,1803.44,43282.56,0
+INV0174,Tech World,Electronics,2026-01-12,7,3716.96,26018.69,0
+INV0175,Tech World,Software,2026-10-15,2,2141.73,4283.46,0
+INV0176,XYZ Traders,Stationery,2026-05-08,24,528.1,12674.29,0
+INV0177,Global Office,Electronics,2026-04-06,28,3962.05,110937.32,0
+INV0178,ABC Supplies,Stationery,2026-04-02,5,1571.64,7858.2,0
+INV0179,Prime Stationery,Furniture,2026-05-21,7,2277.28,15940.97,0
+INV0180,ABC Supplies,Stationery,2026-01-31,4,3490.13,13960.52,0
+INV0181,ABC Supplies,Electronics,2026-11-30,5,1795.79,8978.95,0
+INV0182,Global Office,Software,2026-01-20,24,471.61,11318.67,0
+INV0183,ABC Supplies,Furniture,2026-05-26,1,1994.82,1994.82,0
+INV0184,XYZ Traders,Electronics,2026-11-12,1,4733.35,4733.35,0
+INV0185,XYZ Traders,Furniture,2026-06-09,15,3280.33,49204.88,0
+INV0186,Tech World,Office Equipment,2026-12-15,20,3423.1,68462.0,0
+INV0187,Prime Stationery,Stationery,2026-02-12,19,3234.95,61464.13,0
+INV0188,ABC Supplies,Office Equipment,2026-09-11,29,1155.16,33499.71,0
+INV0189,ABC Supplies,Electronics,2026-05-10,10,2208.0,22080.03,0
+INV0190,Global Office,Software,2026-03-01,28,3804.51,106526.31,0
+INV0191,XYZ Traders,Furniture,2026-05-31,18,686.59,12358.62,0
+INV0192,Prime Stationery,Stationery,2026-10-14,168,1533.69,257660.48,1
+INV0193,Tech World,Furniture,2026-01-05,3,1526.33,4579.0,0
+INV0194,XYZ Traders,Electronics,2026-09-23,11,2273.69,25010.6,0
+INV0195,Tech World,Furniture,2026-12-11,15,4905.77,73586.55,0
+INV0196,Global Office,Stationery,2026-05-10,27,524.01,14148.33,0
+INV0197,Global Office,Electronics,2026-09-24,11,2689.76,29587.41,0
+INV0198,ABC Supplies,Furniture,2026-06-27,17,1060.95,18036.16,0
+INV0199,Prime Stationery,Software,2026-09-10,17,4859.25,82607.21,0
+INV0200,Tech World,Electronics,2026-02-25,6,743.86,4463.14,0
+INV0201,XYZ Traders,Electronics,2026-03-24,5,2137.28,10686.42,0
+INV0202,Global Office,Software,2026-04-09,8,3741.85,29934.78,0
+INV0203,ABC Supplies,Office Equipment,2026-05-29,2,3581.86,7163.72,0
+INV0204,ABC Supplies,Stationery,2026-11-25,16,2229.1,35665.56,0
+INV0205,Tech World,Office Equipment,2026-06-05,20,1863.32,37266.32,0
+INV0206,Global Office,Furniture,2026-07-09,24,2108.54,50604.95,0
+INV0207,Prime Stationery,Software,2026-09-20,12,1468.53,17622.31,0
+INV0208,Global Office,Office Equipment,2026-03-21,6,1185.6,7113.59,0
+INV0209,Tech World,Electronics,2026-09-09,1,2518.59,2518.59,0
+INV0210,Tech World,Furniture,2026-04-07,4,1488.96,5955.85,0
+INV0211,Global Office,Furniture,2026-09-17,17,1579.82,26856.87,0
+INV0212,Tech World,Office Equipment,2026-09-17,13,3352.43,43581.58,0
+INV0213,Global Office,Office Equipment,2026-04-13,18,4848.98,87281.63,0
+INV0214,XYZ Traders,Software,2026-02-09,5,3097.46,15487.29,0
+INV0215,Global Office,Stationery,2026-09-30,24,569.5,13668.03,0
+INV0216,Global Office,Office Equipment,2026-04-11,24,562.8,13507.23,0
+INV0217,Tech World,Office Equipment,2026-12-25,27,4766.83,128704.45,0
+INV0218,Tech World,Electronics,2026-11-04,3,1627.0,4880.99,0
+INV0219,ABC Supplies,Furniture,2026-08-09,11,641.92,7061.14,0
+INV0220,ABC Supplies,Stationery,2026-11-04,13,3075.41,39980.38,0
+INV0221,XYZ Traders,Electronics,2026-05-04,4,3193.51,12774.06,0
+INV0222,ABC Supplies,Software,2026-08-19,26,3312.82,86133.4,0
+INV0223,Global Office,Software,2026-06-27,27,1483.53,40055.3,0
+INV0224,Tech World,Office Equipment,2026-03-04,14,272.53,3815.44,0
+INV0225,ABC Supplies,Office Equipment,2026-04-26,22,4832.07,106305.62,0
+INV0226,ABC Supplies,Software,2026-07-10,11,1404.29,15447.15,0
+INV0227,XYZ Traders,Office Equipment,2026-03-03,27,3444.93,93013.01,0
+INV0228,XYZ Traders,Stationery,2026-09-13,10,3591.82,35918.23,0
+INV0229,Global Office,Office Equipment,2026-01-07,19,3128.04,59432.68,0
+INV0230,Tech World,Furniture,2026-06-04,18,1701.96,30635.2,0
+INV0231,XYZ Traders,Office Equipment,2026-04-02,6,1501.26,9007.57,0
+INV0232,ABC Supplies,Electronics,2026-01-14,27,3068.81,82857.81,0
+INV0233,Tech World,Stationery,2026-08-17,29,4357.26,126360.51,0
+INV0234,Tech World,Electronics,2026-03-27,60,14933.53,896011.52,1
+INV0235,ABC Supplies,Electronics,2026-05-13,21,708.35,14875.31,0
+INV0236,XYZ Traders,Furniture,2026-07-02,10,943.18,9431.77,0
+INV0237,ABC Supplies,Stationery,2026-03-03,5,4734.73,23673.67,0
+INV0238,Tech World,Stationery,2026-08-07,26,3735.37,97119.6,0
+INV0239,Prime Stationery,Stationery,2026-09-03,29,4438.37,128712.74,0
+INV0240,Prime Stationery,Stationery,2026-08-18,5,1172.64,5863.18,0
+INV0241,Global Office,Stationery,2026-03-20,10,3020.41,30204.12,0
+INV0242,ABC Supplies,Furniture,2026-05-29,28,3565.47,99833.16,0
+INV0243,ABC Supplies,Office Equipment,2026-05-18,5,3464.54,17322.69,0
+INV0244,Global Office,Electronics,2026-11-10,3,2159.13,6477.38,0
+INV0245,Global Office,Stationery,2026-03-06,23,273.9,6299.6,0
+INV0246,Global Office,Office Equipment,2026-01-13,6,2998.05,17988.27,0
+INV0247,Tech World,Office Equipment,2026-08-01,4,1414.89,5659.55,0
+INV0248,ABC Supplies,Electronics,2026-08-30,18,2361.22,42501.97,0
+INV0249,Tech World,Furniture,2026-08-01,28,4796.39,134298.89,0
+INV0250,Global Office,Software,2026-06-30,9,2115.37,19038.33,0
+INV0251,ABC Supplies,Software,2026-12-04,17,4231.05,71927.81,0
+INV0252,Tech World,Office Equipment,2026-06-22,29,1104.99,32044.85,0
+INV0253,Tech World,Electronics,2026-06-09,13,3427.81,44561.54,0
+INV0254,Global Office,Software,2026-06-13,27,4889.63,132020.1,0
+INV0255,ABC Supplies,Office Equipment,2026-07-07,15,689.09,10336.3,0
+INV0256,Global Office,Furniture,2026-07-10,20,239.94,4798.71,0
+INV0257,ABC Supplies,Software,2026-11-04,17,2281.2,38780.36,0
+INV0258,Prime Stationery,Office Equipment,2026-09-13,13,644.6,8379.83,0
+INV0259,XYZ Traders,Office Equipment,2026-07-02,16,3792.24,60675.92,0
+INV0260,XYZ Traders,Stationery,2026-04-27,22,4589.83,100976.34,0
+INV0261,XYZ Traders,Furniture,2026-10-09,4,2283.3,9133.2,0
+INV0262,Global Office,Stationery,2026-07-15,5,1441.82,7209.08,0
+INV0263,Prime Stationery,Electronics,2026-02-03,5,2285.14,11425.68,0
+INV0264,ABC Supplies,Stationery,2026-02-21,9,3672.55,33052.95,0
+INV0265,Tech World,Stationery,2026-04-22,17,243.46,4138.82,0
+INV0266,ABC Supplies,Software,2026-09-09,13,3029.38,39381.93,0
+INV0267,Tech World,Office Equipment,2026-03-23,2,3143.8,6287.6,0
+INV0268,ABC Supplies,Furniture,2026-08-20,13,3260.9,42391.75,0
+INV0269,Prime Stationery,Stationery,2026-08-15,22,1361.71,29957.53,0
+INV0270,Tech World,Furniture,2026-08-21,21,3627.45,76176.51,0
+INV0271,Global Office,Stationery,2026-08-09,27,638.68,17244.34,0
+INV0272,ABC Supplies,Electronics,2026-02-11,23,1156.5,26599.45,0
+INV0273,ABC Supplies,Stationery,2026-01-21,19,4411.86,83825.27,0
+INV0274,Tech World,Software,2026-02-11,3,3745.87,11237.61,0
+INV0275,Global Office,Office Equipment,2026-04-23,10,265.98,2659.79,0
+INV0276,Global Office,Electronics,2026-04-15,2,1392.21,2784.41,0
+INV0277,Prime Stationery,Stationery,2026-07-11,78,1229.15,95873.79,1
+INV0278,Global Office,Furniture,2026-01-17,19,1499.87,28497.54,0
+INV0279,Global Office,Electronics,2026-04-30,26,1388.29,36095.46,0
+INV0280,Global Office,Electronics,2026-05-09,17,500.13,8502.15,0
+INV0281,XYZ Traders,Stationery,2026-05-10,21,2402.91,50461.2,0
+INV0282,Prime Stationery,Electronics,2026-03-01,14,3717.12,52039.69,0
+INV0283,ABC Supplies,Furniture,2026-02-17,12,3112.31,37347.75,0
+INV0284,Tech World,Electronics,2026-01-29,21,3429.78,72025.46,0
+INV0285,ABC Supplies,Furniture,2026-04-07,12,589.52,7074.19,0
+INV0286,Prime Stationery,Stationery,2026-01-10,11,4767.16,52438.71,0
+INV0287,Tech World,Office Equipment,2026-08-30,7,4224.76,29573.33,0
+INV0288,Prime Stationery,Electronics,2026-11-10,4,4064.43,16257.73,0
+INV0289,Global Office,Office Equipment,2026-08-20,19,4150.32,78856.12,0
+INV0290,Tech World,Furniture,2026-10-04,1,4677.01,4677.01,0
+INV0291,Global Office,Electronics,2026-10-11,28,2812.42,78747.73,0
+INV0292,ABC Supplies,Software,2026-07-22,24,1161.35,27872.49,0
+INV0293,ABC Supplies,Office Equipment,2026-09-04,29,3160.56,91656.28,0
+INV0294,Tech World,Electronics,2026-10-17,3,3765.83,11297.49,0
+INV0295,Tech World,Office Equipment,2026-09-21,13,3742.0,48646.05,0
+INV0296,Prime Stationery,Electronics,2026-08-02,15,2702.96,40544.33,0
+INV0297,Prime Stationery,Stationery,2026-07-19,2,528.6,1057.2,0
+INV0298,Global Office,Office Equipment,2026-03-20,11,1981.34,21794.76,0
+INV0299,Tech World,Software,2026-12-09,4,4619.68,18478.72,0
+INV0300,ABC Supplies,Software,2026-12-10,19,3005.35,57101.74,0
+INV0301,Prime Stationery,Furniture,2026-06-22,29,2783.99,80735.81,0
+INV0302,Prime Stationery,Electronics,2026-03-10,17,1490.5,25338.45,0
+INV0303,ABC Supplies,Office Equipment,2026-03-28,3,1968.55,5905.66,0
+INV0304,Prime Stationery,Furniture,2026-04-11,28,4497.66,125934.51,0
+INV0305,Global Office,Office Equipment,2026-01-08,18,3399.02,61182.41,0
+INV0306,Tech World,Electronics,2026-11-29,8,3979.46,31835.66,0
+INV0307,ABC Supplies,Software,2026-07-19,22,2380.86,52378.88,0
+INV0308,Tech World,Stationery,2026-03-28,25,3225.19,80629.67,0
+INV0309,Prime Stationery,Software,2026-02-12,24,1392.24,33413.79,0
+INV0310,Prime Stationery,Furniture,2026-04-19,26,3586.21,93241.51,0
+INV0311,ABC Supplies,Stationery,2026-06-01,19,2252.49,42797.24,0
+INV0312,Global Office,Furniture,2026-01-17,5,2324.22,11621.09,0
+INV0313,XYZ Traders,Electronics,2026-05-13,7,3316.75,23217.23,0
+INV0314,ABC Supplies,Stationery,2026-05-28,21,4694.15,98577.09,0
+INV0315,XYZ Traders,Furniture,2026-10-04,8,507.23,4057.84,0
+INV0316,XYZ Traders,Electronics,2026-08-20,28,4158.77,116445.49,0
+INV0317,Global Office,Software,2026-11-10,5,1603.44,8017.19,0
+INV0318,XYZ Traders,Electronics,2026-08-16,17,2330.81,39623.83,0
+INV0319,XYZ Traders,Office Equipment,2026-05-19,5,305.18,1525.92,0
+INV0320,Global Office,Electronics,2026-07-30,4,1645.02,6580.08,0
+INV0321,XYZ Traders,Electronics,2026-01-28,22,2612.63,57477.86,0
+INV0322,XYZ Traders,Office Equipment,2026-02-20,19,469.65,8923.26,0
+INV0323,XYZ Traders,Furniture,2026-09-18,27,2557.26,69046.01,0
+INV0324,ABC Supplies,Furniture,2026-09-18,21,4650.13,97652.75,0
+INV0325,ABC Supplies,Electronics,2026-12-16,2,705.89,1411.77,0
+INV0326,ABC Supplies,Office Equipment,2026-12-18,11,3869.32,42562.47,0
+INV0327,Global Office,Office Equipment,2026-01-08,22,2166.42,47661.26,0
+INV0328,Prime Stationery,Software,2026-11-16,13,3344.83,43482.84,0
+INV0329,XYZ Traders,Furniture,2026-05-18,15,1449.14,21737.04,0
+INV0330,XYZ Traders,Stationery,2026-02-07,12,965.56,11586.75,0
+INV0331,Global Office,Furniture,2026-04-21,22,970.22,21344.85,0
+INV0332,XYZ Traders,Furniture,2026-08-08,21,538.36,11305.59,0
+INV0333,ABC Supplies,Software,2026-12-03,22,1091.1,24004.29,0
+INV0334,Prime Stationery,Stationery,2026-08-11,11,3388.25,37270.78,0
+INV0335,Tech World,Software,2026-05-16,7,4432.11,31024.8,0
+INV0336,XYZ Traders,Stationery,2026-09-13,28,4107.8,115018.49,0
+INV0337,ABC Supplies,Electronics,2026-12-26,5,3488.64,17443.22,0
+INV0338,Tech World,Stationery,2026-11-25,17,730.07,12411.24,0
+INV0339,Prime Stationery,Software,2026-02-18,24,1588.1,38114.39,0
+INV0340,Tech World,Furniture,2026-10-19,20,1687.07,33741.46,0
+INV0341,ABC Supplies,Stationery,2026-11-20,9,1399.79,12598.14,0
+INV0342,Tech World,Stationery,2026-03-19,14,2672.03,37408.38,0
+INV0343,Global Office,Office Equipment,2026-04-15,26,2770.66,72037.12,0
+INV0344,Tech World,Furniture,2026-06-18,12,1913.05,22956.63,0
+INV0345,XYZ Traders,Electronics,2026-08-05,6,1898.19,11389.13,0
+INV0346,XYZ Traders,Software,2026-04-29,17,4177.07,71010.14,0
+INV0347,Global Office,Electronics,2026-07-09,19,3988.61,75783.51,0
+INV0348,ABC Supplies,Furniture,2026-09-12,19,1677.42,31870.98,0
+INV0349,XYZ Traders,Stationery,2026-09-23,26,4586.18,119240.8,0
+INV0350,Prime Stationery,Stationery,2026-05-29,16,4773.51,76376.19,0
+INV0351,XYZ Traders,Furniture,2026-06-13,12,1768.36,21220.37,0
+INV0352,XYZ Traders,Stationery,2026-05-20,12,1901.24,22814.88,0
+INV0353,ABC Supplies,Stationery,2026-12-13,20,2627.04,52540.88,0
+INV0354,Tech World,Stationery,2026-09-15,6,4717.38,28304.28,0
+INV0355,XYZ Traders,Software,2026-09-26,23,4406.33,101345.67,0
+INV0356,Global Office,Software,2026-06-30,26,692.33,18000.48,0
+INV0357,Tech World,Office Equipment,2026-06-09,4,2085.11,8340.43,0
+INV0358,Prime Stationery,Electronics,2026-12-17,6,2856.18,17137.09,0
+INV0359,ABC Supplies,Furniture,2026-10-15,11,2615.04,28765.39,0
+INV0360,Prime Stationery,Furniture,2026-10-15,9,1130.54,10174.88,1
+INV0361,Tech World,Furniture,2026-08-14,24,4322.32,103735.69,0
+INV0362,Tech World,Office Equipment,2026-01-11,23,3449.32,79334.26,0
+INV0363,Tech World,Software,2026-01-10,15,4221.96,63329.4,0
+INV0364,Prime Stationery,Office Equipment,2026-09-28,27,4322.07,116695.85,0
+INV0365,Tech World,Furniture,2026-09-30,11,3792.11,41713.19,0
+INV0366,Prime Stationery,Electronics,2026-07-02,25,2308.21,57705.27,0
+INV0367,Tech World,Stationery,2026-06-02,19,3130.62,59481.86,0
+INV0368,Global Office,Software,2026-11-11,18,969.75,17455.57,0
+INV0369,Tech World,Software,2026-11-30,17,3433.5,58369.47,0
+INV0370,Prime Stationery,Office Equipment,2026-05-04,19,1060.42,20147.9,0
+INV0371,XYZ Traders,Software,2026-04-24,21,3530.96,74150.12,0
+INV0372,Tech World,Furniture,2026-10-05,14,1302.07,18229.0,0
+INV0373,XYZ Traders,Furniture,2026-08-01,27,764.25,20634.65,0
+INV0374,Global Office,Office Equipment,2026-06-21,18,993.37,17880.58,0
+INV0375,ABC Supplies,Furniture,2026-10-15,28,209.56,5867.74,0
+INV0376,Global Office,Electronics,2026-06-23,19,3649.95,69349.05,0
+INV0377,Tech World,Office Equipment,2026-04-23,15,3715.53,55732.88,0
+INV0378,XYZ Traders,Electronics,2026-05-02,15,2671.68,40075.2,0
+INV0379,XYZ Traders,Stationery,2026-02-01,4,974.54,3898.17,0
+INV0380,Prime Stationery,Electronics,2026-08-10,7,601.06,4207.43,0
+INV0381,XYZ Traders,Stationery,2026-04-29,13,291.82,3793.65,0
+INV0382,Prime Stationery,Stationery,2026-02-08,3,995.59,2986.77,0
+INV0383,ABC Supplies,Electronics,2026-09-25,16,4476.11,71617.71,0
+INV0384,Tech World,Office Equipment,2026-08-21,9,1359.38,12234.39,0
+INV0385,Prime Stationery,Furniture,2026-01-18,8,1900.5,15204.02,0
+INV0386,ABC Supplies,Furniture,2026-05-29,20,705.66,14113.17,0
+INV0387,XYZ Traders,Stationery,2026-05-29,13,1267.33,16475.35,0
+INV0388,XYZ Traders,Stationery,2026-05-06,17,2692.28,45768.72,0
+INV0389,ABC Supplies,Office Equipment,2026-10-29,17,3117.21,52992.62,0
+INV0390,XYZ Traders,Software,2026-12-26,17,1377.69,23420.75,0
+INV0391,ABC Supplies,Electronics,2026-08-26,1,477.11,477.11,0
+INV0392,Prime Stationery,Stationery,2026-05-15,8,2076.96,16615.66,0
+INV0393,Prime Stationery,Furniture,2026-05-31,19,1324.18,25159.35,0
+INV0394,ABC Supplies,Office Equipment,2026-08-24,6,1253.86,7523.15,0
+INV0395,Prime Stationery,Electronics,2026-08-12,3,4807.34,14422.02,0
+INV0396,Prime Stationery,Office Equipment,2026-07-22,27,3158.24,85272.54,0
+INV0397,Prime Stationery,Electronics,2026-09-13,5,2873.02,14365.08,0
+INV0398,Global Office,Electronics,2026-03-27,13,2195.72,28544.37,0
+INV0399,Tech World,Stationery,2026-05-30,15,2258.93,33883.99,0
+INV0400,XYZ Traders,Office Equipment,2026-08-23,14,2796.34,39148.82,0
+INV0401,Global Office,Office Equipment,2026-12-11,29,3542.86,102743.03,0
+INV0402,Prime Stationery,Furniture,2026-01-22,23,3570.3,82116.93,0
+INV0403,ABC Supplies,Furniture,2026-12-14,16,1024.13,16386.09,0
+INV0404,Prime Stationery,Stationery,2026-10-12,18,2600.54,46809.74,0
+INV0405,Tech World,Stationery,2026-09-26,22,2177.4,47902.77,0
+INV0406,Prime Stationery,Software,2026-09-15,29,4378.53,126977.35,0
+INV0407,ABC Supplies,Furniture,2026-01-29,22,3230.81,71077.84,0
+INV0408,Tech World,Electronics,2026-08-01,11,2756.02,30316.21,0
+INV0409,Prime Stationery,Office Equipment,2026-10-10,3,753.89,2261.68,0
+INV0410,Tech World,Stationery,2026-02-19,22,3107.06,68355.36,0
+INV0411,XYZ Traders,Office Equipment,2026-04-05,10,762.58,7625.79,0
+INV0412,XYZ Traders,Office Equipment,2026-03-29,10,1818.59,18185.92,0
+INV0413,Prime Stationery,Software,2026-02-13,21,885.64,18598.47,0
+INV0414,Tech World,Furniture,2026-10-05,16,3521.95,56351.26,0
+INV0415,ABC Supplies,Stationery,2026-06-20,12,1190.01,14280.12,0
+INV0416,Prime Stationery,Office Equipment,2026-07-08,2,2080.92,4161.85,0
+INV0417,XYZ Traders,Stationery,2026-12-19,9,4499.24,40493.15,0
+INV0418,XYZ Traders,Electronics,2026-07-03,24,1180.72,28337.25,0
+INV0419,Prime Stationery,Software,2026-01-03,3,2637.46,7912.39,0
+INV0420,Tech World,Electronics,2026-07-10,24,2212.5,53100.1,0
+INV0421,XYZ Traders,Stationery,2026-04-28,25,287.0,7174.88,0
+INV0422,Tech World,Stationery,2026-01-19,15,4005.24,60078.58,0
+INV0423,XYZ Traders,Furniture,2026-01-23,3,531.42,1594.26,0
+INV0424,XYZ Traders,Office Equipment,2026-01-30,19,2476.42,47052.06,0
+INV0425,Global Office,Office Equipment,2026-10-22,18,2891.26,52042.6,0
+INV0426,XYZ Traders,Electronics,2026-04-18,8,3216.45,25731.58,0
+INV0427,ABC Supplies,Software,2026-10-08,26,3505.43,91141.23,0
+INV0428,Prime Stationery,Office Equipment,2026-05-08,17,1415.71,24067.03,0
+INV0429,Prime Stationery,Furniture,2026-08-17,8,247.9,1983.19,0
+INV0430,Tech World,Electronics,2026-04-21,7,3672.53,25707.71,0
+INV0431,XYZ Traders,Electronics,2026-05-16,7,2771.15,19398.06,0
+INV0432,ABC Supplies,Furniture,2026-12-28,3,4213.36,12640.09,0
+INV0433,Tech World,Software,2026-07-05,3,15611.94,46835.82,1
+INV0434,Global Office,Furniture,2026-05-24,4,4247.97,16991.86,0
+INV0435,Tech World,Software,2026-03-13,25,2528.45,63211.36,0
+INV0436,Tech World,Furniture,2026-05-09,5,1801.42,9007.08,0
+INV0437,XYZ Traders,Furniture,2026-12-30,1,3999.48,3999.48,0
+INV0438,Global Office,Stationery,2026-09-18,15,2366.21,35493.18,0
+INV0439,Tech World,Electronics,2026-01-03,5,1080.52,5402.61,0
+INV0440,ABC Supplies,Furniture,2026-04-14,13,4303.88,55950.38,0
+INV0441,ABC Supplies,Furniture,2026-08-12,8,4436.29,35490.3,0
+INV0442,Prime Stationery,Office Equipment,2026-11-16,8,2438.29,19506.29,0
+INV0443,Global Office,Electronics,2026-12-28,5,563.36,2816.79,0
+INV0444,Global Office,Office Equipment,2026-12-20,28,2061.57,57723.83,0
+INV0445,Prime Stationery,Electronics,2026-01-10,9,4056.98,36512.83,0
+INV0446,Tech World,Office Equipment,2026-10-29,1,4528.52,4528.52,0
+INV0447,Global Office,Furniture,2026-08-19,4,1176.67,4706.68,0
+INV0448,ABC Supplies,Furniture,2026-08-07,3,521.47,1564.42,0
+INV0449,ABC Supplies,Stationery,2026-03-07,2,4411.28,8822.56,0
+INV0450,XYZ Traders,Office Equipment,2026-04-22,8,2069.14,16553.15,0
+INV0451,Global Office,Software,2026-01-13,23,2800.45,64410.41,0
+INV0452,Tech World,Stationery,2026-03-27,9,4846.72,43620.44,0
+INV0453,Prime Stationery,Office Equipment,2026-08-22,2,519.51,1039.02,0
+INV0454,Prime Stationery,Office Equipment,2026-03-31,14,3311.93,46366.97,0
+INV0455,Tech World,Stationery,2026-11-10,14,555.71,7779.88,0
+INV0456,XYZ Traders,Furniture,2026-02-23,4,2002.25,8009.0,0
+INV0457,Prime Stationery,Office Equipment,2026-01-12,6,4058.31,24349.86,0
+INV0458,Global Office,Furniture,2026-07-28,11,2280.67,25087.33,0
+INV0459,XYZ Traders,Stationery,2026-01-14,3,4986.48,14959.43,0
+INV0460,Global Office,Furniture,2026-05-01,8,2883.48,23067.88,0
+INV0461,ABC Supplies,Electronics,2026-01-20,3,1741.58,5224.73,0
+INV0462,XYZ Traders,Software,2026-03-16,14,1256.53,17591.48,0
+INV0463,Prime Stationery,Office Equipment,2026-08-31,28,1882.5,52709.96,0
+INV0464,XYZ Traders,Software,2026-08-11,13,1988.16,25846.08,0
+INV0465,XYZ Traders,Furniture,2026-03-11,13,529.83,6887.73,0
+INV0466,XYZ Traders,Office Equipment,2026-11-08,2,1973.96,3947.91,0
+INV0467,XYZ Traders,Furniture,2026-07-30,39,8968.47,349770.2,1
+INV0468,Global Office,Electronics,2026-04-11,29,3669.14,106405.1,0
+INV0469,ABC Supplies,Stationery,2026-07-05,19,3352.3,63693.73,0
+INV0470,Tech World,Office Equipment,2026-05-12,27,3602.08,97256.03,0
+INV0471,XYZ Traders,Electronics,2026-04-21,6,240.15,1440.87,0
+INV0472,Prime Stationery,Electronics,2026-05-12,16,1244.8,19916.86,0
+INV0473,XYZ Traders,Office Equipment,2026-01-20,2,3376.08,6752.17,0
+INV0474,Prime Stationery,Furniture,2026-01-24,8,2523.15,20185.19,0
+INV0475,Global Office,Electronics,2026-08-15,17,225.5,3833.58,0
+INV0476,Prime Stationery,Software,2026-06-03,23,4061.57,93416.21,0
+INV0477,Tech World,Electronics,2026-10-20,2,3909.49,7818.97,0
+INV0478,ABC Supplies,Furniture,2026-08-18,10,2832.41,28324.12,0
+INV0479,Prime Stationery,Furniture,2026-11-06,28,519.02,14532.67,0
+INV0480,Prime Stationery,Software,2026-12-25,16,3879.27,62068.36,0
+INV0481,ABC Supplies,Electronics,2026-07-21,6,3001.83,18010.95,0
+INV0482,Tech World,Furniture,2026-02-07,28,3953.41,110695.42,0
+INV0483,XYZ Traders,Office Equipment,2026-09-17,2,3808.39,7616.77,0
+INV0484,Prime Stationery,Stationery,2026-07-07,2,4054.41,8108.82,0
+INV0485,ABC Supplies,Stationery,2026-02-26,26,2686.44,69847.41,0
+INV0486,Global Office,Stationery,2026-01-20,13,873.56,11356.25,0
+INV0487,ABC Supplies,Electronics,2026-09-30,24,3421.56,82117.34,0
+INV0488,Global Office,Software,2026-04-29,135,3178.27,429067.01,1
+INV0489,Tech World,Furniture,2026-03-12,28,3762.82,105358.83,0
+INV0490,XYZ Traders,Office Equipment,2026-01-04,2,1015.43,2030.86,0
+INV0491,ABC Supplies,Office Equipment,2026-08-09,7,1135.88,7951.17,0
+INV0492,Prime Stationery,Electronics,2026-01-14,3,4473.97,13421.9,0
+INV0493,Tech World,Stationery,2026-01-03,8,3799.89,30399.15,0
+INV0494,ABC Supplies,Electronics,2026-08-04,23,4559.5,104868.43,0
+INV0495,Prime Stationery,Software,2026-08-17,14,3841.83,53785.67,0
+INV0496,ABC Supplies,Software,2026-12-02,24,3066.35,73592.29,0
+INV0497,Global Office,Furniture,2026-07-05,23,3339.84,76816.25,0
+INV0498,ABC Supplies,Furniture,2026-02-24,27,4467.81,120630.98,0
+INV0499,ABC Supplies,Software,2026-09-11,22,2978.27,65521.99,0
+INV0500,ABC Supplies,Software,2026-01-24,29,3235.48,93828.87,0
+INV0501,Tech World,Software,2026-06-11,7,951.09,6657.62,0
+INV0502,ABC Supplies,Electronics,2026-06-07,21,2474.82,51971.26,0
+INV0503,Prime Stationery,Software,2026-03-23,7,3638.71,25470.94,0
+INV0504,Global Office,Office Equipment,2026-06-08,1,1500.52,1500.52,0
+INV0505,Global Office,Stationery,2026-07-07,17,1170.82,19903.94,0
+INV0506,ABC Supplies,Software,2026-03-01,9,1706.37,15357.32,0
+INV0507,Tech World,Stationery,2026-11-01,21,1359.2,28543.26,0
+INV0508,Tech World,Electronics,2026-11-15,13,1231.58,16010.55,0
+INV0509,Prime Stationery,Stationery,2026-07-30,21,2239.28,47024.96,0
+INV0510,ABC Supplies,Electronics,2026-06-01,19,4557.62,86594.87,0
+INV0511,Global Office,Office Equipment,2026-04-19,21,2633.89,55311.61,0
+INV0512,Tech World,Electronics,2026-03-17,19,1102.02,20938.34,0
+INV0513,ABC Supplies,Electronics,2026-01-30,25,569.46,14236.6,0
+INV0514,Tech World,Furniture,2026-11-10,25,3541.55,88538.74,0
+INV0515,Tech World,Software,2026-04-27,22,2037.43,44823.55,0
+INV0516,Global Office,Software,2026-12-22,17,4144.79,70461.41,0
+INV0517,XYZ Traders,Office Equipment,2026-07-11,23,3365.65,77409.99,0
+INV0518,Prime Stationery,Office Equipment,2026-01-19,23,4021.96,92505.06,0
+INV0519,Prime Stationery,Software,2026-06-22,10,1505.34,15053.41,0
+INV0520,Global Office,Furniture,2026-08-16,10,3523.32,35233.23,0
+INV0521,Tech World,Software,2026-12-16,4,1467.5,5869.99,0
+INV0522,ABC Supplies,Furniture,2026-07-02,8,4707.53,37660.23,0
+INV0523,Tech World,Office Equipment,2026-04-23,22,3254.6,71601.12,0
+INV0524,Global Office,Stationery,2026-07-02,20,1757.66,35153.13,0
+INV0525,Prime Stationery,Office Equipment,2026-05-26,20,1493.66,29873.14,0
+INV0526,Tech World,Office Equipment,2026-11-15,18,1116.45,20096.06,0
+INV0527,Prime Stationery,Electronics,2026-04-26,14,3534.28,49479.87,0
+INV0528,ABC Supplies,Electronics,2026-04-23,18,1249.83,22497.03,0
+INV0529,Prime Stationery,Electronics,2026-09-08,28,3057.46,85608.76,0
+INV0530,Prime Stationery,Electronics,2026-09-08,14,1470.25,20583.47,0
+INV0531,XYZ Traders,Furniture,2026-10-30,20,3377.45,67549.02,0
+INV0532,XYZ Traders,Software,2026-11-09,21,4111.71,86345.92,0
+INV0533,XYZ Traders,Stationery,2026-04-28,24,3934.52,94428.51,0
+INV0534,Prime Stationery,Office Equipment,2026-10-28,15,3852.09,57781.3,0
+INV0535,Global Office,Furniture,2026-06-10,22,1101.07,24223.49,0
+INV0536,Prime Stationery,Stationery,2026-07-17,4,624.25,2496.99,0
+INV0537,Global Office,Furniture,2026-09-17,13,3554.95,46214.41,0
+INV0538,Global Office,Furniture,2026-05-28,27,1968.07,53137.8,0
+INV0539,XYZ Traders,Office Equipment,2026-08-28,23,2275.26,52331.02,0
+INV0540,Tech World,Software,2026-02-16,8,349.52,2796.13,0
+INV0541,ABC Supplies,Electronics,2026-07-17,18,1445.97,26027.41,0
+INV0542,XYZ Traders,Software,2026-02-16,12,361.65,4339.76,0
+INV0543,XYZ Traders,Office Equipment,2026-03-19,23,4420.09,101662.11,0
+INV0544,Tech World,Office Equipment,2026-05-04,14,1368.3,19156.26,0
+INV0545,ABC Supplies,Office Equipment,2026-03-16,2,2875.22,5750.44,0
+INV0546,Prime Stationery,Stationery,2026-12-25,18,387.1,6967.81,0
+INV0547,Prime Stationery,Software,2026-05-17,24,3400.87,81620.82,0
+INV0548,XYZ Traders,Software,2026-03-31,2,1750.53,3501.06,0
+INV0549,ABC Supplies,Furniture,2026-11-21,11,4510.01,49610.13,0
+INV0550,XYZ Traders,Furniture,2026-03-02,9,4462.97,40166.71,0
+INV0551,Global Office,Furniture,2026-05-18,12,1761.39,21136.74,0
+INV0552,XYZ Traders,Office Equipment,2026-02-19,17,4524.61,76918.41,0
+INV0553,XYZ Traders,Software,2026-09-16,15,4981.56,74723.35,0
+INV0554,Prime Stationery,Office Equipment,2026-04-17,25,4162.0,104049.88,0
+INV0555,Prime Stationery,Stationery,2026-04-23,17,4255.38,72341.5,0
+INV0556,Prime Stationery,Furniture,2026-12-16,26,1395.24,36276.29,0
+INV0557,Global Office,Office Equipment,2026-09-11,29,2968.17,86076.97,0
+INV0558,Prime Stationery,Office Equipment,2026-04-28,26,522.83,13593.54,0
+INV0559,ABC Supplies,Stationery,2026-07-17,18,655.61,11800.91,0
+INV0560,Tech World,Electronics,2026-12-03,22,4994.68,109883.06,0
+INV0561,ABC Supplies,Software,2026-12-31,6,1767.87,10607.21,0
+INV0562,ABC Supplies,Electronics,2026-02-20,17,3791.28,64451.81,0
+INV0563,Prime Stationery,Furniture,2026-09-02,115,13903.31,1598880.9,1
+INV0564,Tech World,Office Equipment,2026-02-04,24,4318.51,103644.28,0
+INV0565,Tech World,Stationery,2026-10-29,18,4988.62,89795.08,0
+INV0566,Tech World,Stationery,2026-03-10,8,1359.18,10873.47,0
+INV0567,Global Office,Software,2026-12-15,9,393.68,3543.16,0
+INV0568,Prime Stationery,Electronics,2026-11-16,6,2173.72,13042.32,0
+INV0569,Tech World,Software,2026-02-18,5,824.39,4121.94,0
+INV0570,Global Office,Office Equipment,2026-03-15,12,307.64,3691.73,0
+INV0571,XYZ Traders,Software,2026-07-11,25,1930.05,48251.22,0
+INV0572,XYZ Traders,Stationery,2026-09-18,29,3961.94,114896.36,0
+INV0573,Global Office,Stationery,2026-12-22,28,2917.67,81694.68,0
+INV0574,Global Office,Furniture,2026-03-11,11,1701.33,18714.68,0
+INV0575,Prime Stationery,Furniture,2026-03-31,25,3340.84,83521.04,0
+INV0576,Prime Stationery,Office Equipment,2026-09-17,1,1313.69,1313.69,0
+INV0577,XYZ Traders,Electronics,2026-05-06,11,269.03,2959.34,0
+INV0578,Tech World,Software,2026-08-19,19,3868.9,73509.03,0
+INV0579,XYZ Traders,Office Equipment,2026-10-22,9,3193.97,28745.7,0
+INV0580,Tech World,Furniture,2026-05-09,27,3859.05,104194.42,0
+INV0581,Tech World,Software,2026-10-07,2,386.9,773.8,0
+INV0582,Prime Stationery,Furniture,2026-11-09,12,4218.17,50618.09,0
+INV0583,ABC Supplies,Software,2026-04-10,4,3173.73,12694.9,0
+INV0584,ABC Supplies,Electronics,2026-11-22,4,2904.3,11617.19,0
+INV0585,Global Office,Office Equipment,2026-10-24,18,3198.15,57566.65,0
+INV0586,Prime Stationery,Software,2026-07-01,15,4349.28,65239.19,0
+INV0587,Tech World,Stationery,2026-06-23,19,3017.3,57328.61,0
+INV0588,ABC Supplies,Stationery,2026-11-12,13,2988.56,38851.3,0
+INV0589,Tech World,Software,2026-12-30,19,4955.26,94149.94,0
+INV0590,ABC Supplies,Software,2026-07-07,17,3832.3,65149.18,0
+INV0591,ABC Supplies,Software,2026-02-26,6,2323.01,13938.06,0
+INV0592,ABC Supplies,Stationery,2026-01-31,16,3595.51,57528.09,0
+INV0593,Prime Stationery,Stationery,2026-03-25,24,2068.31,49639.35,0
+INV0594,XYZ Traders,Software,2026-06-01,12,1298.6,15583.23,0
+INV0595,Tech World,Furniture,2026-02-05,19,3064.89,58232.89,0
+INV0596,Prime Stationery,Furniture,2026-08-01,5,4655.27,23276.37,0
+INV0597,Prime Stationery,Electronics,2026-12-30,17,4659.87,79217.78,0
+INV0598,Prime Stationery,Office Equipment,2026-04-16,26,1841.15,47869.78,0
+INV0599,Prime Stationery,Furniture,2026-12-08,23,2732.85,62855.59,0
+INV0600,Prime Stationery,Stationery,2026-08-08,26,1215.85,31612.16,0
+INV0601,Global Office,Furniture,2026-06-12,29,4979.03,144391.85,0
+INV0602,Tech World,Electronics,2026-08-08,1,4909.37,4909.37,0
+INV0603,Prime Stationery,Electronics,2026-09-27,28,3317.64,92894.0,0
+INV0604,Tech World,Office Equipment,2026-04-30,27,4061.19,109652.06,0
+INV0605,Global Office,Furniture,2026-12-02,25,3632.48,90812.02,0
+INV0606,Global Office,Stationery,2026-07-01,24,3047.16,73131.83,0
+INV0607,Tech World,Stationery,2026-04-16,23,456.07,10489.62,0
+INV0608,ABC Supplies,Software,2026-08-05,10,2382.87,23828.69,0
+INV0609,XYZ Traders,Stationery,2026-07-24,15,3438.97,51584.61,0
+INV0610,ABC Supplies,Office Equipment,2026-03-11,23,3452.15,79399.49,0
+INV0611,ABC Supplies,Office Equipment,2026-02-13,21,1990.99,41810.76,0
+INV0612,ABC Supplies,Stationery,2026-11-25,21,4720.12,99122.55,0
+INV0613,Prime Stationery,Stationery,2026-10-28,11,1003.31,11036.45,0
+INV0614,Global Office,Software,2026-08-16,13,2601.73,33822.43,0
+INV0615,ABC Supplies,Stationery,2026-07-03,5,3516.24,17581.22,0
+INV0616,Global Office,Software,2026-04-17,1,3546.25,3546.25,0
+INV0617,Tech World,Software,2026-03-25,24,3313.47,79523.21,0
+INV0618,XYZ Traders,Stationery,2026-12-04,12,1521.38,18256.6,0
+INV0619,Tech World,Electronics,2026-09-07,11,949.79,10447.71,0
+INV0620,Tech World,Electronics,2026-12-29,17,3252.51,55292.73,0
+INV0621,Prime Stationery,Software,2026-01-21,4,3076.65,12306.6,0
+INV0622,XYZ Traders,Stationery,2026-07-15,15,1060.91,15913.63,0
+INV0623,Tech World,Electronics,2026-06-27,25,3584.67,89616.7,0
+INV0624,Tech World,Stationery,2026-01-07,9,2384.83,21463.43,0
+INV0625,XYZ Traders,Stationery,2026-03-11,21,3405.25,71510.27,0
+INV0626,XYZ Traders,Stationery,2026-05-07,20,4219.36,84387.24,0
+INV0627,Tech World,Furniture,2026-06-09,171,1014.7,173513.09,1
+INV0628,XYZ Traders,Stationery,2026-09-05,19,291.9,5546.01,0
+INV0629,Tech World,Furniture,2026-07-22,12,3939.69,47276.31,0
+INV0630,Tech World,Software,2026-05-28,5,3126.55,15632.74,0
+INV0631,Prime Stationery,Electronics,2026-05-23,10,3558.27,35582.7,0
+INV0632,ABC Supplies,Electronics,2026-07-18,17,4223.14,71793.45,0
+INV0633,Tech World,Electronics,2026-06-03,30,14843.7,445310.99,1
+INV0634,Global Office,Electronics,2026-05-22,22,4812.42,105873.17,0
+INV0635,ABC Supplies,Electronics,2026-11-09,16,2772.49,44359.81,0
+INV0636,ABC Supplies,Electronics,2026-06-14,7,2544.78,17813.45,0
+INV0637,ABC Supplies,Electronics,2026-11-10,28,2129.06,59613.64,0
+INV0638,Prime Stationery,Software,2026-01-21,9,937.72,8439.45,0
+INV0639,Tech World,Stationery,2026-03-23,3,2948.51,8845.54,0
+INV0640,Prime Stationery,Office Equipment,2026-03-10,15,1529.66,22944.9,0
+INV0641,Tech World,Furniture,2026-05-11,16,4622.28,73956.42,0
+INV0642,Prime Stationery,Office Equipment,2026-03-28,18,2999.32,53987.69,0
+INV0643,Prime Stationery,Office Equipment,2026-08-06,14,3045.63,42638.86,0
+INV0644,Global Office,Stationery,2026-11-01,3,1903.64,5710.92,0
+INV0645,Prime Stationery,Stationery,2026-12-11,12,4042.92,48515.02,1
+INV0646,XYZ Traders,Stationery,2026-12-07,9,352.37,3171.33,0
+INV0647,Global Office,Electronics,2026-06-10,28,2232.01,62496.24,0
+INV0648,Prime Stationery,Software,2026-06-27,7,605.91,4241.4,0
+INV0649,ABC Supplies,Electronics,2026-04-27,9,3112.87,28015.79,0
+INV0650,XYZ Traders,Software,2026-07-15,13,4428.67,57572.72,0
+INV0651,XYZ Traders,Software,2026-11-23,18,4437.99,79883.84,0
+INV0652,XYZ Traders,Office Equipment,2026-03-27,5,3363.42,16817.09,0
+INV0653,Global Office,Office Equipment,2026-10-16,13,1213.91,15780.87,0
+INV0654,Prime Stationery,Software,2026-03-22,4,22149.16,88596.62,1
+INV0655,Prime Stationery,Software,2026-06-01,2,4453.25,8906.5,0
+INV0656,ABC Supplies,Electronics,2026-03-02,16,1143.94,18303.0,0
+INV0657,ABC Supplies,Electronics,2026-03-02,9,3739.65,33656.81,0
+INV0658,XYZ Traders,Office Equipment,2026-12-20,9,1575.29,14177.64,0
+INV0659,ABC Supplies,Stationery,2026-01-28,6,4052.67,24316.04,0
+INV0660,Global Office,Software,2026-02-12,11,4986.74,54854.16,0
+INV0661,Prime Stationery,Electronics,2026-06-18,22,344.12,7570.75,0
+INV0662,XYZ Traders,Office Equipment,2026-03-27,24,4507.36,108176.55,0
+INV0663,ABC Supplies,Electronics,2026-06-26,22,3188.63,70149.78,0
+INV0664,Global Office,Software,2026-01-17,1,4872.24,4872.24,0
+INV0665,Global Office,Software,2026-04-08,4,2432.05,9728.18,0
+INV0666,ABC Supplies,Furniture,2026-07-17,13,4267.46,55477.01,0
+INV0667,Prime Stationery,Stationery,2026-04-08,23,499.49,11488.31,0
+INV0668,ABC Supplies,Furniture,2026-03-06,13,1809.34,23521.41,0
+INV0669,XYZ Traders,Office Equipment,2026-11-26,13,521.68,6781.83,0
+INV0670,ABC Supplies,Electronics,2026-12-07,2,4881.65,9763.29,0
+INV0671,Global Office,Office Equipment,2026-01-05,9,4121.47,37093.27,0
+INV0672,ABC Supplies,Software,2026-01-02,24,4292.23,103013.46,0
+INV0673,Prime Stationery,Furniture,2026-01-22,8,4702.23,37617.86,0
+INV0674,Tech World,Furniture,2026-04-22,7,608.5,4259.48,0
+INV0675,ABC Supplies,Furniture,2026-02-26,4,2050.87,8203.47,0
+INV0676,Prime Stationery,Office Equipment,2026-03-07,18,540.97,9737.41,0
+INV0677,Prime Stationery,Software,2026-11-26,3,1211.81,3635.42,0
+INV0678,Global Office,Electronics,2026-04-08,28,1300.96,36426.76,0
+INV0679,Prime Stationery,Electronics,2026-05-24,6,2451.71,14710.29,0
+INV0680,Prime Stationery,Office Equipment,2026-05-05,12,1489.1,17869.18,0
+INV0681,Prime Stationery,Furniture,2026-06-16,12,684.69,8216.34,0
+INV0682,Prime Stationery,Stationery,2026-03-27,21,1003.96,21083.1,0
+INV0683,XYZ Traders,Office Equipment,2026-03-17,28,906.92,25393.84,0
+INV0684,XYZ Traders,Office Equipment,2026-12-10,8,4870.77,38966.15,0
+INV0685,Global Office,Software,2026-10-21,22,3844.6,84581.29,0
+INV0686,ABC Supplies,Electronics,2026-02-28,22,4845.26,106595.61,0
+INV0687,Prime Stationery,Office Equipment,2026-05-18,1,2310.75,2310.75,0
+INV0688,ABC Supplies,Office Equipment,2026-04-09,4,1536.17,6144.67,0
+INV0689,ABC Supplies,Furniture,2026-07-11,21,4031.81,84667.95,0
+INV0690,Global Office,Furniture,2026-08-31,28,1766.02,49448.53,0
+INV0691,Prime Stationery,Stationery,2026-11-15,11,1637.04,18007.44,0
+INV0692,Prime Stationery,Software,2026-02-18,3,1316.03,3948.09,0
+INV0693,Tech World,Stationery,2026-02-01,13,822.46,10691.97,0
+INV0694,ABC Supplies,Furniture,2026-10-04,25,1431.02,35775.57,0
+INV0695,ABC Supplies,Electronics,2026-01-20,17,1905.53,32394.09,0
+INV0696,XYZ Traders,Furniture,2026-06-03,22,3435.17,75573.79,0
+INV0697,Tech World,Software,2026-03-09,22,500.31,11006.85,0
+INV0698,XYZ Traders,Furniture,2026-08-02,10,1210.43,12104.33,0
+INV0699,XYZ Traders,Software,2026-05-23,21,4083.31,85749.58,0
+INV0700,XYZ Traders,Software,2026-08-20,12,905.23,10862.7,0
+INV0701,Global Office,Software,2026-08-01,15,1844.7,27670.45,0
+INV0702,Global Office,Software,2026-03-20,21,4350.36,91357.62,0
+INV0703,XYZ Traders,Software,2026-08-02,10,943.64,9436.41,0
+INV0704,Tech World,Electronics,2026-04-26,14,597.14,8359.92,0
+INV0705,ABC Supplies,Stationery,2026-04-02,13,2525.78,32835.17,0
+INV0706,Tech World,Office Equipment,2026-09-27,5,1651.61,8258.07,0
+INV0707,Prime Stationery,Stationery,2026-06-17,6,2904.36,17426.16,0
+INV0708,Global Office,Software,2026-02-27,24,4058.26,97398.32,0
+INV0709,ABC Supplies,Electronics,2026-10-11,2,858.31,1716.63,0
+INV0710,ABC Supplies,Furniture,2026-01-26,22,2987.36,65721.82,0
+INV0711,Prime Stationery,Electronics,2026-03-07,17,2626.44,44649.51,0
+INV0712,Prime Stationery,Software,2026-09-05,4,891.58,3566.31,0
+INV0713,XYZ Traders,Electronics,2026-09-11,14,3195.19,44732.7,0
+INV0714,Global Office,Electronics,2026-02-13,10,1513.47,15134.74,0
+INV0715,Global Office,Software,2026-04-07,3,2541.6,7624.81,0
+INV0716,Tech World,Electronics,2026-02-11,25,594.91,14872.68,0
+INV0717,XYZ Traders,Office Equipment,2026-08-15,3,2406.0,7218.01,0
+INV0718,XYZ Traders,Office Equipment,2026-09-19,15,1671.02,25065.37,0
+INV0719,XYZ Traders,Electronics,2026-06-16,6,4147.43,24884.58,0
+INV0720,XYZ Traders,Furniture,2026-10-06,17,473.5,8049.46,0
+INV0721,Global Office,Software,2026-03-30,12,2209.31,26511.78,0
+INV0722,Global Office,Office Equipment,2026-06-27,22,2400.47,52810.36,0
+INV0723,XYZ Traders,Furniture,2026-07-16,20,3680.03,73600.58,0
+INV0724,Tech World,Electronics,2026-11-03,24,2956.58,70957.93,0
+INV0725,ABC Supplies,Furniture,2026-09-24,29,3402.62,98675.96,0
+INV0726,ABC Supplies,Stationery,2026-09-25,11,3929.84,43228.2,0
+INV0727,Tech World,Office Equipment,2026-03-15,25,4338.57,108464.36,0
+INV0728,XYZ Traders,Electronics,2026-01-08,4,1706.6,6826.41,0
+INV0729,Global Office,Software,2026-10-24,26,2782.51,72345.23,0
+INV0730,ABC Supplies,Electronics,2026-06-13,28,4232.52,118510.53,0
+INV0731,Prime Stationery,Software,2026-03-26,26,4949.37,128683.5,0
+INV0732,Prime Stationery,Electronics,2026-03-13,6,4469.69,26818.16,0
+INV0733,Tech World,Furniture,2026-02-24,1,1983.04,1983.04,0
+INV0734,XYZ Traders,Furniture,2026-02-16,20,1136.8,22735.99,0
+INV0735,ABC Supplies,Furniture,2026-08-26,23,2549.08,58628.94,0
+INV0736,XYZ Traders,Stationery,2026-04-14,28,3759.88,105276.61,0
+INV0737,ABC Supplies,Software,2026-07-29,16,2564.33,41029.3,0
+INV0738,Tech World,Furniture,2026-02-11,15,2519.27,37789.02,0
+INV0739,Tech World,Stationery,2026-11-12,17,4223.51,71799.6,0
+INV0740,Prime Stationery,Software,2026-09-25,8,18246.24,145969.9,1
+INV0741,XYZ Traders,Electronics,2026-09-20,28,4327.01,121156.4,0
+INV0742,Prime Stationery,Stationery,2026-12-02,26,2152.66,55969.24,0
+INV0743,XYZ Traders,Office Equipment,2026-12-31,12,1775.52,21306.23,0
+INV0744,Prime Stationery,Stationery,2026-09-16,27,2379.15,64237.09,0
+INV0745,Global Office,Stationery,2026-10-10,22,3859.75,84914.4,0
+INV0746,Global Office,Software,2026-04-24,21,804.81,16901.0,0
+INV0747,Global Office,Electronics,2026-12-29,10,1142.81,11428.12,0
+INV0748,Global Office,Office Equipment,2026-02-09,27,4766.94,128707.25,0
+INV0749,ABC Supplies,Furniture,2026-08-08,15,1042.36,15635.4,0
+INV0750,Global Office,Furniture,2026-05-09,9,2925.09,26325.82,0
+INV0751,Tech World,Stationery,2026-01-08,2,2980.71,5961.42,0
+INV0752,Tech World,Software,2026-04-11,5,2550.2,12750.99,0
+INV0753,ABC Supplies,Software,2026-06-25,6,3294.78,19768.66,0
+INV0754,Global Office,Furniture,2026-04-17,7,1303.17,9122.18,0
+INV0755,Global Office,Office Equipment,2026-04-11,21,2852.78,59908.36,0
+INV0756,Global Office,Electronics,2026-09-17,25,1986.43,49660.79,0
+INV0757,Prime Stationery,Office Equipment,2026-09-03,1,3376.0,3376.0,0
+INV0758,XYZ Traders,Electronics,2026-10-02,23,877.87,20191.08,0
+INV0759,Prime Stationery,Furniture,2026-02-01,26,2940.21,76445.5,0
+INV0760,XYZ Traders,Electronics,2026-05-17,7,1089.3,7625.08,0
+INV0761,Global Office,Software,2026-01-12,20,1537.49,30749.73,0
+INV0762,Global Office,Stationery,2026-10-29,25,1249.81,31245.18,0
+INV0763,Prime Stationery,Stationery,2026-01-16,12,1077.62,12931.46,0
+INV0764,Prime Stationery,Furniture,2026-05-09,16,4163.41,66614.6,0
+INV0765,XYZ Traders,Software,2026-03-04,16,1571.4,25142.34,0
+INV0766,Tech World,Office Equipment,2026-04-19,11,4650.19,51152.14,0
+INV0767,XYZ Traders,Software,2026-01-21,21,4855.65,101968.59,0
+INV0768,Prime Stationery,Stationery,2026-06-07,4,2942.05,11768.2,0
+INV0769,Prime Stationery,Stationery,2026-09-26,104,886.41,92186.16,1
+INV0770,ABC Supplies,Software,2026-06-11,7,1997.83,13984.82,0
+INV0771,Prime Stationery,Software,2026-09-17,4,4029.11,16116.46,0
+INV0772,ABC Supplies,Stationery,2026-04-12,15,1963.48,29452.13,0
+INV0773,Tech World,Office Equipment,2026-08-11,19,617.68,11735.97,0
+INV0774,XYZ Traders,Furniture,2026-02-28,9,2872.57,25853.11,0
+INV0775,XYZ Traders,Furniture,2026-09-04,11,4256.58,46822.38,0
+INV0776,ABC Supplies,Software,2026-05-08,8,4020.45,32163.57,0
+INV0777,XYZ Traders,Furniture,2026-10-10,1,1040.59,1040.59,0
+INV0778,Prime Stationery,Stationery,2026-11-21,23,3429.27,78873.21,0
+INV0779,Global Office,Stationery,2026-01-25,25,1258.42,31460.51,0
+INV0780,ABC Supplies,Software,2026-05-11,24,1247.4,29937.51,0
+INV0781,XYZ Traders,Software,2026-12-19,8,4395.54,35164.36,0
+INV0782,ABC Supplies,Software,2026-07-15,13,1398.41,18179.34,0
+INV0783,ABC Supplies,Office Equipment,2026-10-08,22,1463.59,32198.92,0
+INV0784,Global Office,Furniture,2026-06-03,27,203.14,5484.68,0
+INV0785,Prime Stationery,Software,2026-05-13,4,4379.21,17516.85,0
+INV0786,ABC Supplies,Electronics,2026-08-15,8,4004.46,32035.64,0
+INV0787,XYZ Traders,Electronics,2026-07-08,3,3211.18,9633.54,0
+INV0788,Tech World,Stationery,2026-09-22,29,3801.28,110236.99,0
+INV0789,ABC Supplies,Furniture,2026-05-14,9,929.83,8368.5,0
+INV0790,ABC Supplies,Software,2026-07-30,29,2399.95,69598.64,0
+INV0791,Global Office,Electronics,2026-03-01,2,1885.85,3771.71,0
+INV0792,Prime Stationery,Furniture,2026-12-30,2,650.13,1300.25,0
+INV0793,Tech World,Stationery,2026-12-30,28,2533.43,70935.94,0
+INV0794,XYZ Traders,Office Equipment,2026-08-01,13,4619.55,60054.15,0
+INV0795,Tech World,Furniture,2026-08-04,15,392.28,5884.26,0
+INV0796,XYZ Traders,Furniture,2026-08-14,28,1599.01,44772.35,0
+INV0797,Prime Stationery,Office Equipment,2026-05-11,23,1196.2,27512.52,0
+INV0798,XYZ Traders,Furniture,2026-03-17,12,1343.1,16117.25,0
+INV0799,Global Office,Stationery,2026-10-13,26,4560.49,118572.63,0
+INV0800,Global Office,Stationery,2026-10-04,4,2446.73,9786.93,0
+INV0801,Global Office,Office Equipment,2026-06-05,26,2438.24,63394.17,0
+INV0802,Global Office,Software,2026-09-05,8,3850.76,30806.1,0
+INV0803,Tech World,Electronics,2026-08-06,9,941.56,8474.06,0
+INV0804,Prime Stationery,Software,2026-07-09,23,2538.87,58394.1,0
+INV0805,XYZ Traders,Furniture,2026-06-12,5,2263.93,11319.65,0
+INV0806,XYZ Traders,Electronics,2026-06-29,24,29621.09,710906.26,1
+INV0807,Global Office,Office Equipment,2026-02-03,20,4997.88,99957.54,0
+INV0808,Global Office,Office Equipment,2026-02-10,18,3893.35,70080.38,0
+INV0809,ABC Supplies,Electronics,2026-11-03,11,2109.76,23207.31,0
+INV0810,Prime Stationery,Stationery,2026-12-04,15,30426.55,456398.31,1
+INV0811,Tech World,Electronics,2026-11-10,28,1019.4,28543.2,0
+INV0812,XYZ Traders,Furniture,2026-03-16,22,346.23,7616.97,0
+INV0813,ABC Supplies,Stationery,2026-10-06,9,1181.35,10632.17,0
+INV0814,ABC Supplies,Office Equipment,2026-06-25,17,1833.98,31177.58,0
+INV0815,XYZ Traders,Electronics,2026-05-30,27,2650.79,71571.27,0
+INV0816,Tech World,Software,2026-09-30,26,3152.62,81968.12,0
+INV0817,ABC Supplies,Software,2026-11-21,12,4570.91,54850.89,0
+INV0818,ABC Supplies,Furniture,2026-04-18,7,2647.3,18531.09,0
+INV0819,Prime Stationery,Software,2026-05-19,10,2606.12,26061.23,0
+INV0820,Tech World,Electronics,2026-12-16,25,441.17,11029.16,0
+INV0821,ABC Supplies,Electronics,2026-09-28,26,367.58,9556.96,0
+INV0822,Tech World,Software,2026-12-13,25,2845.57,71139.2,0
+INV0823,XYZ Traders,Electronics,2026-10-16,10,2303.26,23032.57,0
+INV0824,Global Office,Furniture,2026-07-31,27,4228.07,114157.78,0
+INV0825,ABC Supplies,Stationery,2026-09-29,13,971.26,12626.41,0
+INV0826,Prime Stationery,Furniture,2026-03-07,19,319.86,6077.42,0
+INV0827,XYZ Traders,Furniture,2026-09-05,11,2355.39,25909.25,0
+INV0828,Tech World,Electronics,2026-06-05,13,1339.9,17418.66,0
+INV0829,XYZ Traders,Stationery,2026-02-16,21,438.15,9201.13,0
+INV0830,ABC Supplies,Electronics,2026-07-20,8,3678.07,29424.57,0
+INV0831,Tech World,Office Equipment,2026-05-28,40,4187.41,167496.6,1
+INV0832,Global Office,Electronics,2026-05-04,4,3119.93,12479.73,0
+INV0833,XYZ Traders,Electronics,2026-01-01,15,1549.04,23235.58,0
+INV0834,ABC Supplies,Electronics,2026-09-04,28,1032.78,28917.87,0
+INV0835,Prime Stationery,Stationery,2026-12-09,11,2022.81,22250.88,0
+INV0836,Tech World,Electronics,2026-05-08,11,4046.94,44516.34,0
+INV0837,XYZ Traders,Stationery,2026-07-10,1,2082.05,2082.05,0
+INV0838,XYZ Traders,Software,2026-03-08,17,3803.69,64662.8,0
+INV0839,Global Office,Office Equipment,2026-01-04,15,802.33,12035.01,0
+INV0840,Global Office,Stationery,2026-10-30,20,3909.3,78186.06,0
+INV0841,Prime Stationery,Software,2026-10-21,6,1337.28,8023.68,0
+INV0842,Prime Stationery,Stationery,2026-05-23,24,3451.49,82835.69,0
+INV0843,ABC Supplies,Stationery,2026-07-10,22,2915.75,64146.53,0
+INV0844,ABC Supplies,Office Equipment,2026-01-21,28,4659.89,130477.05,0
+INV0845,Prime Stationery,Furniture,2026-08-15,25,2059.15,51478.7,0
+INV0846,Prime Stationery,Furniture,2026-11-09,15,517.59,7763.89,0
+INV0847,Tech World,Stationery,2026-04-27,9,291.95,2627.52,0
+INV0848,Global Office,Electronics,2026-10-29,14,4168.92,58364.9,0
+INV0849,ABC Supplies,Software,2026-05-22,18,2718.73,48937.16,0
+INV0850,Global Office,Electronics,2026-02-08,26,3921.17,101950.46,0
+INV0851,Global Office,Electronics,2026-12-21,17,1325.24,22529.13,0
+INV0852,Prime Stationery,Stationery,2026-09-09,18,1856.4,33415.24,0
+INV0853,Tech World,Stationery,2026-11-29,5,344.5,1722.49,0
+INV0854,XYZ Traders,Stationery,2026-07-26,20,4815.16,96303.26,0
+INV0855,Tech World,Stationery,2026-07-29,20,3405.77,68115.32,0
+INV0856,Tech World,Furniture,2026-04-25,9,4679.38,42114.46,0
+INV0857,Global Office,Stationery,2026-08-13,11,1474.38,16218.21,0
+INV0858,Tech World,Furniture,2026-05-14,24,3135.03,75240.61,0
+INV0859,ABC Supplies,Furniture,2026-09-08,22,3456.8,76049.6,0
+INV0860,Global Office,Stationery,2026-08-07,1,1724.24,1724.24,0
+INV0861,ABC Supplies,Office Equipment,2026-04-01,18,4270.92,76876.64,0
+INV0862,XYZ Traders,Software,2026-12-20,6,4746.38,28478.25,0
+INV0863,Global Office,Electronics,2026-02-15,27,4447.3,120077.22,0
+INV0864,XYZ Traders,Furniture,2026-02-07,2,3747.52,7495.04,0
+INV0865,Global Office,Software,2026-05-22,15,1531.83,22977.46,0
+INV0866,Prime Stationery,Office Equipment,2026-04-10,29,1551.76,45000.95,0
+INV0867,Tech World,Electronics,2026-11-24,26,4824.13,125427.37,0
+INV0868,Prime Stationery,Electronics,2026-07-09,21,249.37,5236.68,0
+INV0869,XYZ Traders,Furniture,2026-02-04,14,3637.04,50918.56,0
+INV0870,Tech World,Stationery,2026-05-27,5,3589.98,17949.91,0
+INV0871,Global Office,Office Equipment,2026-01-30,6,3188.91,19133.46,0
+INV0872,Tech World,Furniture,2026-11-30,6,4952.52,29715.13,0
+INV0873,ABC Supplies,Office Equipment,2026-03-25,22,1697.02,37334.47,0
+INV0874,Tech World,Stationery,2026-10-08,18,1831.86,32973.57,0
+INV0875,ABC Supplies,Stationery,2026-12-10,14,578.91,8104.73,0
+INV0876,Tech World,Furniture,2026-09-27,10,2325.43,23254.31,0
+INV0877,ABC Supplies,Stationery,2026-06-03,14,1453.03,20342.46,0
+INV0878,XYZ Traders,Software,2026-04-12,13,1848.26,24027.33,0
+INV0879,Prime Stationery,Electronics,2026-08-03,3,4205.94,12617.83,0
+INV0880,Global Office,Furniture,2026-05-30,6,4690.33,28141.95,0
+INV0881,Tech World,Office Equipment,2026-03-24,29,1091.52,31654.04,0
+INV0882,Prime Stationery,Software,2026-04-20,8,1988.04,15904.34,0
+INV0883,Global Office,Furniture,2026-10-02,72,4657.43,335334.72,1
+INV0884,Global Office,Stationery,2026-07-20,13,496.68,6456.85,0
+INV0885,ABC Supplies,Stationery,2026-10-11,11,643.33,7076.64,0
+INV0886,XYZ Traders,Stationery,2026-06-22,12,981.4,11776.76,0
+INV0887,XYZ Traders,Stationery,2026-11-23,1,3057.02,3057.02,0
+INV0888,Prime Stationery,Office Equipment,2026-07-25,17,922.27,15678.54,0
+INV0889,XYZ Traders,Software,2026-03-04,16,4846.77,77548.27,0
+INV0890,Tech World,Electronics,2026-03-14,11,2344.23,25786.53,0
+INV0891,XYZ Traders,Office Equipment,2026-09-08,13,2607.29,33894.72,0
+INV0892,Prime Stationery,Office Equipment,2026-05-04,18,1383.96,24911.3,0
+INV0893,XYZ Traders,Electronics,2026-05-01,11,2460.61,27066.7,0
+INV0894,Tech World,Electronics,2026-10-02,28,3377.19,94561.19,0
+INV0895,ABC Supplies,Stationery,2026-04-30,12,3805.65,45667.8,0
+INV0896,Prime Stationery,Office Equipment,2026-11-13,6,3818.57,22911.4,0
+INV0897,ABC Supplies,Furniture,2026-06-13,9,2973.88,26764.9,0
+INV0898,ABC Supplies,Electronics,2026-10-13,16,4540.93,72654.83,0
+INV0899,ABC Supplies,Electronics,2026-09-22,4,4123.56,16494.23,0
+INV0900,Global Office,Software,2026-11-16,3,3833.83,11501.49,0
+INV0901,Global Office,Furniture,2026-06-10,28,466.91,13073.38,0
+INV0902,ABC Supplies,Furniture,2026-11-04,16,233.01,3728.23,0
+INV0903,Prime Stationery,Electronics,2026-03-30,24,1219.75,29273.93,0
+INV0904,Tech World,Stationery,2026-05-22,27,3384.91,91392.66,0
+INV0905,Tech World,Software,2026-07-22,26,2173.75,56517.45,0
+INV0906,XYZ Traders,Furniture,2026-11-05,25,2131.55,53288.75,0
+INV0907,Prime Stationery,Electronics,2026-08-15,12,4446.02,53352.2,0
+INV0908,Global Office,Furniture,2026-11-30,11,4498.7,49485.72,0
+INV0909,ABC Supplies,Software,2026-08-10,5,4564.04,22820.21,0
+INV0910,XYZ Traders,Software,2026-02-10,25,1706.61,42665.37,0
+INV0911,Tech World,Office Equipment,2026-07-15,18,3517.07,63307.22,0
+INV0912,Global Office,Electronics,2026-03-09,19,1503.84,28572.95,0
+INV0913,Global Office,Software,2026-09-21,23,1114.93,25643.33,0
+INV0914,ABC Supplies,Office Equipment,2026-01-02,23,1086.24,24983.42,0
+INV0915,Tech World,Office Equipment,2026-12-27,6,1842.12,11052.7,0
+INV0916,Prime Stationery,Furniture,2026-05-05,22,2263.8,49803.52,0
+INV0917,Global Office,Furniture,2026-04-20,18,4188.56,75394.01,0
+INV0918,ABC Supplies,Office Equipment,2026-03-27,26,775.48,20162.41,0
+INV0919,Prime Stationery,Furniture,2026-04-30,6,3727.64,22365.86,0
+INV0920,Tech World,Software,2026-05-07,4,2750.98,11003.93,0
+INV0921,Global Office,Stationery,2026-09-12,12,1582.14,18985.65,0
+INV0922,Prime Stationery,Software,2026-07-02,19,2565.53,48745.15,0
+INV0923,Prime Stationery,Office Equipment,2026-01-16,29,1639.72,47551.94,0
+INV0924,Prime Stationery,Office Equipment,2026-03-03,27,3061.19,82652.22,0
+INV0925,Global Office,Software,2026-06-07,29,2282.45,66191.07,0
+INV0926,Global Office,Furniture,2026-09-25,2,989.15,1978.29,0
+INV0927,XYZ Traders,Furniture,2026-02-04,17,759.6,12913.18,0
+INV0928,Tech World,Office Equipment,2026-09-24,11,2824.14,31065.53,0
+INV0929,ABC Supplies,Electronics,2026-03-05,11,4531.58,49847.41,0
+INV0930,Prime Stationery,Furniture,2026-02-19,21,1851.0,38870.93,0
+INV0931,XYZ Traders,Software,2026-09-12,16,3718.4,59494.41,0
+INV0932,ABC Supplies,Furniture,2026-05-29,2,3361.57,6723.15,0
+INV0933,XYZ Traders,Software,2026-11-21,2,4671.46,9342.93,0
+INV0934,Global Office,Office Equipment,2026-10-31,23,4140.71,95236.3,0
+INV0935,Prime Stationery,Furniture,2026-10-03,8,2919.71,23357.64,0
+INV0936,ABC Supplies,Software,2026-12-23,13,3353.75,43598.7,0
+INV0937,ABC Supplies,Office Equipment,2026-06-21,10,4512.26,45122.55,0
+INV0938,ABC Supplies,Electronics,2026-07-20,8,2117.69,16941.52,0
+INV0939,ABC Supplies,Software,2026-11-20,4,1768.61,7074.46,0
+INV0940,ABC Supplies,Electronics,2026-02-04,15,251.89,3778.4,0
+INV0941,XYZ Traders,Electronics,2026-08-04,1,4167.45,4167.45,0
+INV0942,Prime Stationery,Stationery,2026-03-06,11,4044.71,44491.78,0
+INV0943,Global Office,Furniture,2026-01-08,7,701.38,4909.67,0
+INV0944,Global Office,Software,2026-10-28,17,2968.92,50471.56,0
+INV0945,Global Office,Electronics,2026-12-09,27,2427.11,65532.03,0
+INV0946,Global Office,Stationery,2026-11-28,20,769.8,15396.07,0
+INV0947,XYZ Traders,Office Equipment,2026-03-17,24,4906.73,117761.46,0
+INV0948,Tech World,Software,2026-06-23,18,1230.54,22149.72,0
+INV0949,Prime Stationery,Electronics,2026-02-16,22,522.72,11499.93,0
+INV0950,ABC Supplies,Furniture,2026-01-15,29,3055.27,88602.76,0
+INV0951,Tech World,Stationery,2026-12-27,22,3746.56,82424.32,0
+INV0952,Global Office,Electronics,2026-05-27,12,355.73,4268.74,0
+INV0953,Tech World,Furniture,2026-01-26,9,3361.84,30256.6,0
+INV0954,Prime Stationery,Electronics,2026-11-04,5,2755.0,13775.01,0
+INV0955,ABC Supplies,Software,2026-04-03,10,695.67,6956.72,0
+INV0956,ABC Supplies,Software,2026-08-20,4,1028.11,4112.46,0
+INV0957,Prime Stationery,Software,2026-01-21,5,2926.28,14631.38,0
+INV0958,Prime Stationery,Stationery,2026-11-03,28,1622.52,45430.46,0
+INV0959,Global Office,Software,2026-02-07,28,4703.92,131709.63,0
+INV0960,ABC Supplies,Furniture,2026-10-03,10,4129.95,41299.53,0
+INV0961,Tech World,Electronics,2026-06-06,11,4921.12,54132.35,0
+INV0962,XYZ Traders,Office Equipment,2026-06-28,21,1446.42,30374.82,0
+INV0963,XYZ Traders,Furniture,2026-05-12,24,4854.67,116512.16,0
+INV0964,Prime Stationery,Furniture,2026-11-07,10,2269.92,22699.23,0
+INV0965,Global Office,Software,2026-12-14,28,1868.09,52306.53,0
+INV0966,XYZ Traders,Stationery,2026-01-28,8,441.68,3533.42,0
+INV0967,ABC Supplies,Electronics,2026-09-17,2,453.27,906.55,0
+INV0968,Prime Stationery,Stationery,2026-03-17,23,3521.65,80998.04,0
+INV0969,Tech World,Electronics,2026-03-08,8,2398.06,19184.47,0
+INV0970,Prime Stationery,Electronics,2026-12-08,16,1287.3,20596.86,0
+INV0971,Tech World,Stationery,2026-07-13,27,3147.06,84970.55,0
+INV0972,Prime Stationery,Furniture,2026-06-11,22,1413.72,31101.82,0
+INV0973,Prime Stationery,Electronics,2026-12-13,5,2972.63,14863.16,0
+INV0974,Prime Stationery,Stationery,2026-12-27,27,1924.2,51953.45,0
+INV0975,Tech World,Electronics,2026-09-14,25,4153.05,103826.27,0
+INV0976,Tech World,Office Equipment,2026-03-13,29,4139.34,120040.91,0
+INV0977,Prime Stationery,Furniture,2026-03-28,3,2491.28,7473.85,0
+INV0978,XYZ Traders,Software,2026-09-19,12,1883.93,22607.18,0
+INV0979,Global Office,Electronics,2026-08-02,13,1940.29,25223.73,0
+INV0980,Global Office,Office Equipment,2026-06-02,13,4067.43,52876.59,0
+INV0981,Global Office,Software,2026-07-29,10,1775.26,17752.62,0
+INV0982,Tech World,Software,2026-03-02,4,1203.48,4813.94,0
+INV0983,Tech World,Electronics,2026-09-25,9,606.5,5458.54,0
+INV0984,XYZ Traders,Stationery,2026-09-19,22,2440.13,53682.79,0
+INV0985,Global Office,Electronics,2026-08-06,24,2514.23,60341.62,0
+INV0986,Global Office,Office Equipment,2026-10-10,23,4236.36,97436.32,0
+INV0987,Prime Stationery,Software,2026-05-16,27,1261.95,34072.54,0
+INV0988,Tech World,Electronics,2026-12-28,2,2028.76,4057.52,0
+INV0989,Global Office,Stationery,2026-04-03,19,4080.35,77526.6,0
+INV0990,XYZ Traders,Electronics,2026-04-19,1,4153.39,4153.39,0
+INV0991,XYZ Traders,Furniture,2026-08-29,25,2046.13,51153.33,0
+INV0992,Global Office,Stationery,2026-12-21,29,2403.8,69710.06,0
+INV0993,Tech World,Office Equipment,2026-05-22,7,1655.77,11590.41,0
+INV0994,XYZ Traders,Software,2026-10-18,17,4676.26,79496.48,0
+INV0995,Prime Stationery,Electronics,2026-08-25,3,769.49,2308.47,0
+INV0996,XYZ Traders,Stationery,2026-12-06,20,4682.0,93639.94,0
+INV0997,ABC Supplies,Furniture,2026-11-08,20,3482.56,69651.18,0
+INV0998,ABC Supplies,Stationery,2026-06-26,21,2751.55,57782.47,0
+INV0999,Tech World,Furniture,2026-05-21,3,356.76,1070.29,0
+INV1000,Global Office,Office Equipment,2026-07-08,3,2482.86,7448.59,0

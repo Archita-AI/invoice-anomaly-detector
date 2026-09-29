@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 
 np.random.seed(42)
+from datetime import datetime, timedelta
 
 n = 1000
 
@@ -25,6 +26,17 @@ data = {
     "invoice_id": [f"INV{i:04d}" for i in range(1, n + 1)],
     "vendor": np.random.choice(vendors, n),
     "category": np.random.choice(categories, n),
+
+    "invoice_date": [
+        (
+            datetime(2026, 1, 1)
+            + timedelta(
+                days=int(np.random.randint(0, 365))
+            )
+        ).strftime("%Y-%m-%d")
+        for _ in range(n)
+    ],
+
     "quantity": np.random.randint(1, 30, n),
     "unit_price": np.random.uniform(200, 5000, n)
 }
@@ -91,6 +103,25 @@ df.to_csv(
     index=False
 )
 
+duplicate_source_indices = np.random.choice(
+    df.index,
+    5,
+    replace=False
+)
+
+duplicate_rows = df.loc[
+    duplicate_source_indices
+].copy()
+
+duplicate_rows["invoice_id"] = [
+    f"DUP{i:04d}"
+    for i in range(1, len(duplicate_rows) + 1)
+]
+
+df = pd.concat(
+    [df, duplicate_rows],
+    ignore_index=True
+)
 
 
 print("Dataset created successfully!")

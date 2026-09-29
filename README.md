@@ -47,3 +47,29 @@ src/        → Python source code
 notebooks/  → experiments and analysis
 models/     → trained models
 app/        → future dashboard
+
+## Phase 2 — Advanced Invoice Intelligence
+
+Phase 2 extends the anomaly detection system with additional
+invoice intelligence capabilities.
+
+### Features Added
+
+- Duplicate invoice detection
+- Vendor profiling
+- Invoice date and time-based features
+- Risk scoring
+- Risk-level classification
+- Human-readable anomaly explanations
+- Integrated ML processing pipeline
+
+### Risk Levels
+
+Invoices are assigned a numerical risk score and categorized as:
+
+- Low
+- Medium
+- High
+
+The risk score is intended to prioritize invoices for human review.
+It does not represent a probability of fraud.
