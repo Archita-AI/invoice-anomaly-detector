@@ -1,0 +1,2 @@
+invoice_id,vendor,invoice_date,quantity,unit_price,amount,calculated_amount,amount_difference,amount_valid
+INV1001,Global Traders,09-09-2026,49,500.0,24500.0,24500.0,0.0,True
