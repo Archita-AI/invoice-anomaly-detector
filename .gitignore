@@ -4,3 +4,26 @@ __pycache__/
 *.pyc
 .DS_Store
 .ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# macOS and notebooks
+.DS_Store
+.ipynb_checkpoints/
+
+# Private invoice PDFs
+invoices/*.pdf
+
+# Generated outputs
+data/integrated_results.csv
+data/extracted_invoice.csv
+data/validated_invoice.csv
+
+# Locally trained model
+models/*.joblib

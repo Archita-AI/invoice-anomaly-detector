@@ -99,3 +99,50 @@ interactive dashboard using Streamlit and Plotly.
 - Streamlit
 - Plotly
 - Pandas
+
+
+## Small-Business Invoice Anomaly Detector
+
+### Overview
+This project analyzes invoices to identify unusual transaction
+patterns that may require manual review.
+
+### Features
+- PDF text extraction
+- Invoice field parsing
+- Invoice total validation
+- Isolation Forest anomaly detection
+- Risk scoring and risk-level classification
+- Similar-invoice checks
+- Explanation of flagged patterns
+- Streamlit dashboard for invoice uploads and analysis
+
+### Technologies
+- Python
+- Pandas and NumPy
+- Scikit-learn
+- PyMuPDF
+- Streamlit
+- Plotly
+- Joblib
+
+### Setup
+
+Create and activate a Python virtual environment, then install
+the project dependencies:
+
+    python -m pip install -r requirements.txt
+
+Train the anomaly detection model:
+
+    python src/train_model.py
+
+Start the dashboard:
+
+    streamlit run app/app.py
+
+### Notes
+The system is a prototype intended to assist invoice review.
+An anomaly score is not proof of fraud. Results require human
+review. OCR for scanned PDFs must be integrated and tested
+before scanned-invoice support can be claimed.

@@ -1,6 +1,20 @@
+import os
+import sys
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import tempfile
+
+PROJECT_FOLDER = os.path.dirname(
+    os.path.dirname(os.path.abspath(__file__))
+)
+
+SRC_FOLDER = os.path.join(PROJECT_FOLDER, "src")
+
+if SRC_FOLDER not in sys.path:
+    sys.path.insert(0, SRC_FOLDER)
+
+from invoice_pipeline import process_invoice
 
 
 # =========================================
@@ -12,6 +26,96 @@ st.set_page_config(
     page_icon="🔍",
     layout="wide"
 )
+
+st.header("Upload and Analyze an Invoice PDF")
+
+uploaded_pdf = st.file_uploader(
+    "Choose an invoice PDF",
+    type=["pdf"],
+    key="invoice_pdf_uploader"
+)
+
+if uploaded_pdf is not None:
+
+    if st.button("Analyze Invoice PDF"):
+
+        temp_path = None
+
+        try:
+            with tempfile.NamedTemporaryFile(
+                suffix=".pdf",
+                delete=False
+            ) as temp_file:
+                temp_file.write(uploaded_pdf.getvalue())
+                temp_path = temp_file.name
+
+            with st.spinner("Analyzing invoice..."):
+                result = process_invoice(temp_path)
+
+            st.success("Invoice processed successfully!")
+
+            st.subheader("Extracted Invoice Details")
+
+            details = {
+                "Invoice ID": result["invoice_id"],
+                "Vendor": result["vendor"],
+                "Invoice Date": result["invoice_date"],
+                "Quantity": result["quantity"],
+                "Unit Price": result["unit_price"],
+                "Amount": result["amount"]
+            }
+
+            st.dataframe(
+                pd.DataFrame(
+                    list(details.items()),
+                    columns=["Field", "Value"]
+                ),
+                hide_index=True,
+                use_container_width=True
+            )
+
+            st.subheader("Anomaly Analysis")
+
+            col1, col2, col3 = st.columns(3)
+
+            col1.metric(
+                "Prediction",
+                result["anomaly_prediction"]
+            )
+
+            col2.metric(
+                "Risk Score",
+                f"{result['risk_score']}/100"
+            )
+
+            col3.metric(
+                "Risk Level",
+                result["risk_level"]
+            )
+
+            st.subheader("Explanation")
+            st.write(result["explanation"])
+
+            if result["is_duplicate"]:
+                st.warning(
+                    "A potentially similar historical invoice was found."
+                )
+            else:
+                st.info(
+                    "No matching historical invoice was found."
+                )
+
+            st.caption(
+                "An anomaly is not proof of fraud. "
+                "Review the invoice before taking action."
+            )
+
+        except Exception as error:
+            st.error(f"Could not analyze invoice: {error}")
+
+        finally:
+            if temp_path and os.path.exists(temp_path):
+                os.remove(temp_path)
 
 
 # =========================================
